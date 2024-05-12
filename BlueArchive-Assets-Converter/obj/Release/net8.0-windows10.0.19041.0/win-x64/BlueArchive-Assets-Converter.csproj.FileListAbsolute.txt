@@ -1,0 +1,12 @@
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\BlueArchive-Assets-Converter.csproj.AssemblyReference.cache
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\mauifont.inputs
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+E:\Programming\C#\BlueArchive-Assets-Converter\BlueArchive-Assets-Converter\obj\Release\net8.0-windows10.0.19041.0\win-x64\BlueArchive-Assets-Converter.GeneratedMSBuildEditorConfig.editorconfig

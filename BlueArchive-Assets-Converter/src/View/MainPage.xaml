@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="using:BlueArchive_Assets_Converter.ViewModel"
+             x:Class="BlueArchive_Assets_Converter.View.MainPage">
+
+    <ContentPage.BindingContext>
+        <vm:MainViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <Picker x:Name="DeviceType" Title="Device Type">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Physical Device (物理デバイス)</x:String>
+                    <x:String>MUMU Player 12</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        
+        <!-- C:\Users\x23g082\Documents\ProgramTestSpace\bluearchive -->
+        
+        <Entry x:Name="OutPutFolderPath" Placeholder="出力先フォルダ" />
+        <Button Text="処理開始" Clicked="OnAssetsAnalysisProcess" />
+
+        <ListView x:Name="LogListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Label Text="{Binding LogInfo}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
