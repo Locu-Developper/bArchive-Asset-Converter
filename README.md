@@ -37,7 +37,7 @@ MediaPatchフォルダのファイル名を変換します
 ## ダウンロード
 リリースページか下からダウンロードできます！
 
-Windows(x64) ⇒ [最新バージョン(Latest)](https://github.com/Locu-Developper/bArchive_Asset_Converter/releases/tag/v1.1.0)
+Windows(x64) ⇒ [最新バージョン(Latest)](https://github.com/Locu-Developper/bArchive-Asset-Converter/releases/download/1.1.0/bArchive-Assets-Converter-Windows-1_1_0.zip)
 
 Mac ⇒ 現在作成中...
 
