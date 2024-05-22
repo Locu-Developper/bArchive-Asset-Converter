@@ -1,0 +1,1333 @@
+--------- beginning of main
+05-07 18:14:42.825 27727 27727 I rJP.BlueArchive: Using CollectorTypeCC GC.
+05-07 18:14:42.838 27727 27727 E rJP.BlueArchive: Not starting debugger since process cannot load the jdwp agent.
+05-07 18:14:42.844 27727 27727 I MessageMonitor: Load libmiui_runtime
+05-07 18:14:42.855 27727 27727 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10730; state: ENABLED
+05-07 18:14:42.881 27727 27727 W ziparchive: Unable to open '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_UnityDataAssetPack.dm': No such file or directory
+05-07 18:14:42.881 27727 27727 W ziparchive: Unable to open '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_UnityDataAssetPack.dm': No such file or directory
+05-07 18:14:42.882 27727 27727 W rJP.BlueArchive: Entry not found
+05-07 18:14:42.884 27727 27727 W ziparchive: Unable to open '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_config.arm64_v8a.dm': No such file or directory
+05-07 18:14:42.884 27727 27727 W ziparchive: Unable to open '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_config.arm64_v8a.dm': No such file or directory
+05-07 18:14:42.885 27727 27727 W rJP.BlueArchive: Entry not found
+05-07 18:14:42.887 27727 27727 D nativeloader: Configuring clns-4 for other apk /data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/base.apk:/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_UnityDataAssetPack.apk:/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_config.arm64_v8a.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/lib/arm64:/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/base.apk!/lib/arm64-v8a:/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_UnityDataAssetPack.apk!/lib/arm64-v8a:/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_config.arm64_v8a.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.YostarJP.BlueArchive
+05-07 18:14:42.906 27727 27727 I Perf    : Connecting to perf service.
+05-07 18:14:42.915 27727 27727 V GraphicsEnvironment: ANGLE Developer option for 'com.YostarJP.BlueArchive' set to: 'default'
+05-07 18:14:42.915 27727 27727 V GraphicsEnvironment: ANGLE GameManagerService for com.YostarJP.BlueArchive: false
+05-07 18:14:42.916 27727 27727 V GraphicsEnvironment: Updatable production driver is not supported on the device.
+05-07 18:14:42.925 27727 27727 I ForceDarkHelperStubImpl: initialize for com.YostarJP.BlueArchive , ForceDarkAppConfig: null
+05-07 18:14:42.927 27727 27727 D rJP.BlueArchive: JNI_OnLoad success
+05-07 18:14:42.927 27727 27727 I MiuiForceDarkConfig: setConfig density:2.750000, mainRule:0, secondaryRule:0, tertiaryRule:0
+05-07 18:14:42.931 27727 27727 D NetworkSecurityConfig: Using Network Security Config from resource airisdk_network_security_config debugBuild: false
+05-07 18:14:42.932 27727 27727 D NetworkSecurityConfig: Using Network Security Config from resource airisdk_network_security_config debugBuild: false
+05-07 18:14:42.933 27727 27727 I MultiDex: VM with version 2.1.0 has multidex support
+05-07 18:14:42.933 27727 27727 I MultiDex: Installing application
+05-07 18:14:42.933 27727 27727 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+05-07 18:14:42.937 27727 27727 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10730; state: ENABLED
+05-07 18:14:42.938 27727 27727 W ComponentDiscovery: Class com.google.firebase.iid.Registrar is not an found.
+05-07 18:14:42.938 27727 27727 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+05-07 18:14:42.959 27727 27727 I FirebaseInitProvider: FirebaseApp initialization successful
+05-07 18:14:42.961 27727  5248 D AppScoutStateMachine: 27727-ScoutStateMachinecreated
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: Failed to auto initialize the Facebook SDK
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: A valid Facebook app id must be set in the AndroidManifest.xml or set by calling FacebookSdk.setApplicationId before initializing the sdk.
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at com.facebook.FacebookSdk.sdkInitialize(FacebookSdk.kt:442)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at com.facebook.FacebookSdk.sdkInitialize(FacebookSdk.kt:402)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at com.facebook.internal.FacebookInitProvider.onCreate(FacebookInitProvider.kt:21)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.content.ContentProvider.attachInfo(ContentProvider.java:2468)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.content.ContentProvider.attachInfo(ContentProvider.java:2433)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.app.ActivityThread.installProvider(ActivityThread.java:7832)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:7343)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7076)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.app.ActivityThread.-$$Nest$mhandleBindApplication(Unknown Source:0)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2215)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.os.Looper.loopOnce(Looper.java:210)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.os.Looper.loop(Looper.java:299)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at android.app.ActivityThread.main(ActivityThread.java:8261)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at java.lang.reflect.Method.invoke(Native Method)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:559)
+05-07 18:14:42.967 27727 27727 I FacebookInitProvider: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:954)
+05-07 18:14:42.979 27727 27727 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformVideoWhiteListInSystem::LIST_ABOUT_SUPPORT_LANDSCAPE_VIDEO = [com.hunantv.imgo.activity, com.tencent.qqlive, com.qiyi.video, com.hunantv.imgo.activity.inter, com.tencent.qqlivei18n, com.iqiyi.i18n, tv.danmaku.bili]
+05-07 18:14:42.989 27727 27727 W libc    : Access denied finding property "ro.vendor.df.effect.conflict"
+05-07 18:14:42.986 27727 27727 W rJP.BlueArchive: type=1400 audit(0.0:567593): avc: denied { read } for name="u:object_r:vendor_displayfeature_prop:s0" dev="tmpfs" ino=13206 scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:object_r:vendor_displayfeature_prop:s0 tclass=file permissive=0 app=com.zzkko
+05-07 18:14:42.993 27727 27727 D IS_CTS_MODE: false
+05-07 18:14:42.993 27727 27727 D MULTI_WINDOW_ENABLED: false
+05-07 18:14:42.996 27727 27727 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+05-07 18:14:43.085 27727 27727 I IL2CPP  : JNI_OnLoad
+05-07 18:14:43.090 27727  5265 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:20 and remote module com.google.android.gms.measurement.dynamite:109
+05-07 18:14:43.090 27727  5265 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 109
+05-07 18:14:43.090 27727  5265 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+05-07 18:14:43.099 27727  5265 W System  : ClassLoader referenced unknown path: 
+05-07 18:14:43.102 27727  5265 D nativeloader: Configuring clns-5 for other apk . target_sdk_version=34, uses_libraries=, library_path=/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/lib/arm64:/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+05-07 18:14:43.121 27727  5265 W rJP.BlueArchive: ClassLoaderContext classpath size mismatch. expected=12, found=2 (DLC[];PCL[base.apk*2131690175:base.apk!classes2.dex*3269580842:base.apk!classes3.dex*3071481980:base.apk!classes4.dex*3570299855:base.apk!classes5.dex*235059034:base.apk!classes6.dex*3602863459:base.apk!classes7.dex*3513713361:base.apk!classes8.dex*4030071655:base.apk!classes9.dex*3050769254:base.apk!classes10.dex*2903050472:base.apk!classes11.dex*2829620743:base.apk!classes12.dex*2622705147]{PCL[/system/framework/org.apache.http.legacy.jar*659110244]#PCL[/system/framework/com.android.media.remotedisplay.jar*3743104115]#PCL[/system/framework/com.android.location.provider.jar*3175360615]#PCL[/system/framework/org.apache.http.legacy.jar*659110244]} | DLC[];PCL[/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/base.apk*3954057436:/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/base.apk!classes2.dex*4223068073])
+--------- beginning of system
+05-07 18:14:43.124 27727 27727 I ForceDarkHelperStubImpl: setViewRootImplForceDark: false for com.yostarjp.bluearchive.MxUnityPlayerActivity@8088448, reason: AppDarkModeEnable
+05-07 18:14:43.125 27727 27727 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+05-07 18:14:43.125 27727 27727 D DecorView[]: updateDecorCaptionStatus windowMode is 1
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: QUALCOMM build                   : 329cf4c2a7, I63533b1e29
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Build Date                       : 01/31/23
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.35.01.12
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Local Branch                     : 
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Remote Branch                    : NONE
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+05-07 18:14:43.157 27727  5278 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+05-07 18:14:43.160 27727 27727 D SurfaceView: UPDATE null, mIsCastMode = false
+05-07 18:14:43.162 27727 27727 E SurfaceSyncer: Failed to find sync for id=0
+05-07 18:14:43.172 27727  5278 I AdrenoGLES-0: PFP: 0x016dc094, ME: 0x00000000
+05-07 18:14:43.196 27727  5303 E rJP.BlueArchive: No package ID 79 found for ID 0x790b0007.
+05-07 18:14:43.196 27727  5303 E rJP.BlueArchive: No package ID 79 found for ID 0x790b0007.
+05-07 18:14:43.196 27727  5303 I FA      : App measurement initialized, version: 89019
+05-07 18:14:43.196 27727  5303 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+05-07 18:14:43.196 27727  5303 I FA      : To enable faster debug mode event logging run:
+05-07 18:14:43.196 27727  5303 I FA      :   adb shell setprop debug.firebase.analytics.app com.YostarJP.BlueArchive
+05-07 18:14:43.206 27727  5278 W libc    : Access denied finding property "vendor.migl.debug"
+05-07 18:14:43.210 27727  5278 E libEGL  : pre_cache appList: ,,
+05-07 18:14:43.217 27727  5303 I FA      : Tag Manager is not found and thus will not be used
+05-07 18:14:43.222 27727  5278 D rJP.BlueArchive: MiuiProcessManagerServiceStub setSchedFifo
+05-07 18:14:43.222 27727  5278 I MiuiProcessManagerImpl: setSchedFifo pid:27727, mode:3
+05-07 18:14:43.234 27727  5278 W Parcel  : Expecting binder but got null!
+05-07 18:14:43.234 27727 27727 D SurfaceView: UPDATE Surface(name=SurfaceView[com.YostarJP.BlueArchive/com.yostarjp.bluearchive.MxUnityPlayerActivity])/@0xa8b4f6d, mIsProjectionMode = false
+05-07 18:14:43.234 27727 27727 D SurfaceControl: nativeSetScreenProjection ===> setScreenProjection
+05-07 18:14:43.234 27727 27727 D SurfaceControl: nativeSetScreenProjection ===> setScreenProjection
+05-07 18:14:43.235 27727 27727 D SurfaceControl: nativeSetScreenProjection ===> setScreenProjection
+05-07 18:14:43.249 27727 27727 E SurfaceSyncer: Failed to find sync for id=0
+05-07 18:14:43.257 27727 27727 D DecorView[]: onWindowFocusChanged hasWindowFocus true
+05-07 18:14:43.257 27727 27727 I HandWritingStubImpl: refreshLastKeyboardType: 1
+05-07 18:14:43.257 27727 27727 I HandWritingStubImpl: getCurrentKeyboardType: 1
+05-07 18:14:43.264 27727  5291 I Unity   : MemoryManager: Using 'Dynamic Heap' Allocator.
+05-07 18:14:43.271 27727 27727 I HandWritingStubImpl: getCurrentKeyboardType: 1
+05-07 18:14:43.433 27727  5291 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceListenerRegistry : registerListener
+05-07 18:14:43.441 27727  5291 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : getPackStates([UnityDataAssetPack])
+05-07 18:14:43.441 27727  5343 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : syncPacks
+05-07 18:14:43.442 27727  5291 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : getPackStates([UnityStreamingAssetsPack])
+05-07 18:14:43.442 27727  5344 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : Initiate binding to the service.
+05-07 18:14:43.456 27727  5344 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : Waiting to bind to the service.
+05-07 18:14:43.456 27727  5344 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : Waiting to bind to the service.
+05-07 18:14:43.458 27727  5291 I Unity   : SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 8, Memory = 7220mb
+05-07 18:14:43.458 27727  5291 I Unity   : SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0xf0), 4 little (mask: 0xf)
+05-07 18:14:43.458 27727  5291 I Unity   : ApplicationInfo com.YostarJP.BlueArchive version 1.44.278134
+05-07 18:14:43.458 27727  5291 I Unity   : Built from '2021.3/utk/support/nexon/2021.3.12f1/zd1736537' branch, Version '2021.3.12f1 (2b904c52209d)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+05-07 18:14:43.481 27727 27727 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+05-07 18:14:43.481 27727 27727 D DecorView[]: updateDecorCaptionStatus windowMode is 1
+05-07 18:14:43.499 27727 27727 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.assetmoduleservice.AssetModuleService})
+05-07 18:14:43.499 27727  5344 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : linkToDeath
+05-07 18:14:43.572 27727  5247 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : onError(-2)
+05-07 18:14:43.573 27727  5344 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : Unbind from service.
+05-07 18:14:43.581 27727  5247 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : onError(-2)
+05-07 18:14:43.581 27727  5306 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceImpl : onGetSessionStates
+05-07 18:14:44.226 27727 27727 W rJP.BlueArchive: type=1400 audit(0.0:567595): avc: granted { execute } for path="/data/data/com.YostarJP.BlueArchive/xsariel_arm64.xem" dev="dm-44" ino=2565169 scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c218,c258,c512,c768 tclass=file app=com.zzkko
+05-07 18:14:44.248 27727  5291 I Unity   : Company Name: NatGames
+05-07 18:14:44.248 27727  5291 I Unity   : Product Name: ブルアカ
+05-07 18:14:44.261 27727  5291 D vulkan  : searching for layers in '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/lib/arm64'
+05-07 18:14:44.261 27727  5291 D vulkan  : searching for layers in '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/base.apk!/lib/arm64-v8a'
+05-07 18:14:44.261 27727  5291 D vulkan  : searching for layers in '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_UnityDataAssetPack.apk!/lib/arm64-v8a'
+05-07 18:14:44.261 27727  5291 D vulkan  : searching for layers in '/data/app/~~5Zaly60tUR3WreCPzmMaMg==/com.YostarJP.BlueArchive-niblIkQ4Up-IH53M3E4HQw==/split_config.arm64_v8a.apk!/lib/arm64-v8a'
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: QUALCOMM build          : 329cf4c2a7, I63533b1e29
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Build Date              : 01/31/23
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Shader Compiler Version : EV031.35.01.12
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Local Branch            : 
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Remote Branch           : NONE
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Build Config            : S P 10.0.7 AArch64
+05-07 18:14:44.268 27727  5291 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: QUALCOMM build          : 329cf4c2a7, I63533b1e29
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Build Date              : 01/31/23
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Shader Compiler Version : EV031.35.01.12
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Local Branch            : 
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.UM.9.14.11.00.00.571.148
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Remote Branch           : NONE
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Build Config            : S P 10.0.7 AArch64
+05-07 18:14:44.270 27727  5291 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+05-07 18:14:44.288 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:44.288 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:44.288 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:44.288 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:44.288 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:44.289 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:44.289 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:44.289 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:44.289 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:44.289 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:44.289 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:44.289 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:44.289 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:44.289 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:44.302 27727  5291 V MediaRouter: Selecting route: RouteInfo{ name=モバイル デバイス, description=null, status=null, category=RouteCategory{ name=システム types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+05-07 18:14:44.303 27727  5291 I MediaRouter: Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+05-07 18:14:44.312 27727  5291 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+05-07 18:14:44.323 27727  5291 D rJP.BlueArchive: PlayerBase::PlayerBase()
+05-07 18:14:44.324 27727  5291 D rJP.BlueArchive: TrackPlayerBase::TrackPlayerBase()
+05-07 18:14:44.324 27727  5291 I libOpenSLES: Emulating old channel mask behavior (ignoring positional mask 0x3, using default mask 0x3 based on channel count of 2)
+05-07 18:14:44.324 27727  5291 D AudioTrack: set(sessionId=14937)
+05-07 18:14:44.324 27727  5291 D AudioTrack: set(): streamType 3, sampleRate 48000, format 0x1, channelMask 0x3, frameCount 0, flags #104, notificationFrames -21, sessionId 14937, transferType 0, uid -1, pid -1
+05-07 18:14:44.324 27727  5291 W AudioTrack: set(): notificationFrames=-21 clamped to the range -1 to -8
+05-07 18:14:44.334 27727 27727 W Thread-7: type=1400 audit(0.0:567596): avc: granted { execute } for path="/data/data/com.YostarJP.BlueArchive/xraphael_arm64.xem" dev="dm-44" ino=2562101 scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c218,c258,c512,c768 tclass=file app=com.zzkko
+05-07 18:14:44.351 27727  5291 I AudioTrack: createTrack_l(0): AUDIO_OUTPUT_FLAG_FAST successful; frameCount 0 -> 1536
+05-07 18:14:44.357 27727  5291 D AudioTrack: start(2654): prior state:STATE_STOPPED
+05-07 18:14:44.359 27727 27727 D MediaRouter: onRestoreRoute() : route=RouteInfo{ name=モバイル デバイス, description=null, status=null, category=RouteCategory{ name=システム types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+05-07 18:14:44.359 27727 27727 V MediaRouter: Selecting route: RouteInfo{ name=モバイル デバイス, description=null, status=null, category=RouteCategory{ name=システム types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+05-07 18:14:44.366 27727 27727 W Thread-7: type=1400 audit(0.0:567597): avc: granted { execute } for path="/data/data/com.YostarJP.BlueArchive/f37a1df81c8a93e443c876a4e55a46ed" dev="dm-44" ino=2404706 scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:object_r:app_data_file:s0:c218,c258,c512,c768 tclass=file app=com.zzkko
+05-07 18:14:44.635 27727  5291 I IL2CPP  : Locale ja-JP
+05-07 18:14:44.694 27727  5291 W Looper  : PerfMonitor longMsg : seq=8 plan=18:14:43.257 late=0ms wall=1437ms running=949ms runnable=117ms io=150ms h=android.os.Handler w=2269 procState=-1
+05-07 18:14:44.699 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:44.699 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:44.699 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:44.699 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:44.699 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:44.699 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:44.699 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:44.699 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:44.699 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:44.699 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:44.699 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:44.699 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:44.700 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:44.700 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:44.881 27727  5291 I PlayCore: UID: [10730]  PID: [27727] AssetPackServiceListenerRegistry : unregisterListener
+05-07 18:14:44.955 27727  5367 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:44.955 27727  5367 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:44.955 27727  5367 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:44.967 27727  5367 I MediaCodec: init video box disabled for codec not supported
+05-07 18:14:44.969 27727  5469 D CCodec  : allocate(c2.qti.hevc.decoder)
+05-07 18:14:44.973 27727  5469 I Codec2Client: Available Codec2 services: "default" "dolby" "ozoaudio" "software"
+05-07 18:14:44.984 27727  5469 I CCodec  : setting up 'default' as default (vendor) store
+05-07 18:14:45.017 27727  5469 I CCodec  : Created component [c2.qti.hevc.decoder]
+05-07 18:14:45.017 27727  5469 D CCodecConfig: read media type: video/hevc
+05-07 18:14:45.018 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_luma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_chroma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_luma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_chroma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_luma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_chroma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_luma
+05-07 18:14:45.019 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_chroma
+05-07 18:14:45.020 27727  5469 D ReflectedParamUpdater: ignored struct field vendor.qti-ext-dec-panscan.window
+05-07 18:14:45.024 27727  5469 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-07 18:14:45.025 27727  5469 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+05-07 18:14:45.026 27727  5469 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+05-07 18:14:45.026 27727  5469 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+05-07 18:14:45.027 27727  5469 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:45.028 27727  5469 D CCodecConfig: c2 config diff is Dict {
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::i32 algo.priority.value = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::float algo.rate.value = 30
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 coded.pl.level = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 coded.pl.profile = 24576
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 default.color.matrix = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 default.color.primaries = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 default.color.range = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 default.color.transfer = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8847360
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   string input.media-type.value = "video/hevc"
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 output.delay.value = 9
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   Buffer output.hdr10-plus-info.value = {
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   }
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   string output.media-type.value = "video/raw"
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 raw.color.matrix = 255
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 raw.color.range = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::u32 raw.color.transfer = 255
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.x = 0
+05-07 18:14:45.028 27727  5469 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.y = 
+05-07 18:14:45.028 27727  5469 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.038 27727  5367 D VideoInfo: com.YostarJP.BlueArchive create c2.qti.hevc.decoder in MediaCodec
+05-07 18:14:45.038 27727  5367 I MediaCodec: fps video to display enabled
+05-07 18:14:45.038 27727  5367 I MiMediaCodecStub: MiMediaCodecStub::MiMediaCodecStub
+05-07 18:14:45.041 27727  5367 I MediaCodec: The Fps from player is 30.000000  frameRateFloat 30.000000 frameRateInt 30
+05-07 18:14:45.041 27727  5367 I MediaCodec: MediaStub sendFrameRate
+05-07 18:14:45.096 27727 27727 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+05-07 18:14:45.096 27727 27727 D DecorView[]: updateDecorCaptionStatus windowMode is 1
+05-07 18:14:45.097 27727  5367 V MediaStub: MediaStub::GetImplInstance for debug create,0x799e5f56b8
+05-07 18:14:45.097 27727  5367 D MediaImpl: MediaImpl::sendFrameRate: 30
+05-07 18:14:45.098 27727  5367 I MediaCodec: MediaStub sendMine
+05-07 18:14:45.098 27727  5367 D MediaImpl: MediaImpl::sendMine: video/hevc
+05-07 18:14:45.098 27727  5367 D MediaStub: MediaStub::sendMine video/hevc
+05-07 18:14:45.098 27727  5367 D MediaCodec: currery video type video/hevc
+05-07 18:14:45.098 27727  5367 I MediaCodec: MediaStub sendDolbyVision
+05-07 18:14:45.098 27727  5367 I MediaCodec: MediaStub sendPackageName
+05-07 18:14:45.098 27727  5367 D MediaImpl: MediaImpl::sendPackageName: com.YostarJP.BlueArchive
+05-07 18:14:45.098 27727  5367 D MediaStub: MediaStub::sendPackageName com.YostarJP.BlueArchive
+05-07 18:14:45.098 27727  5367 I MediaCodec: MediaStub sendWidth/sendHeight
+05-07 18:14:45.098 27727  5367 I MediaCodec: configure : init video box disabled
+05-07 18:14:45.098 27727  5443 D MediaCodec: flushMediametrics
+05-07 18:14:45.099 27727  5469 D CCodec  : [c2.qti.hevc.decoder] buffers are bound to CCodec for this session
+05-07 18:14:45.099 27727  5469 D CCodec  : Client requested ByteBuffer mode decoder w/o color format set: using default semi-planar color format
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for durationUs
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for frame-count
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for track-id
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for language
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for display-width
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for display-height
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for android._is-hdr
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for color-standard
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for file-format
+05-07 18:14:45.100 27727  5469 D CCodecConfig: no c2 equivalents for flags
+05-07 18:14:45.104 27727  5469 D CCodecConfig: c2 config diff is   c2::u32 coded.pl.level = 24581
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 default.color.matrix = 1
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 default.color.primaries = 1
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 default.color.range = 2
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 default.color.transfer = 3
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 raw.pixel-format.value = 35
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 raw.size.height = 1080
+05-07 18:14:45.104 27727  5469 D CCodecConfig:   c2::u32 raw.size.width = 1920
+05-07 18:14:45.105 27727  5469 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.106 27727  5469 W Codec2Client: query -- param skipped: index = 1107298332.
+05-07 18:14:45.106 27727  5469 D CCodec  : client requested max input size 1555200, which is smaller than what component recommended (8847360); overriding with component recommendation.
+05-07 18:14:45.106 27727  5469 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+05-07 18:14:45.106 27727  5469 D CCodec  : encoding statistics level = 0
+05-07 18:14:45.106 27727  5469 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t height = 1080
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t max-input-size = 8847360
+05-07 18:14:45.106 27727  5469 D CCodec  :   string mime = "video/hevc"
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t priority = 0
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t profile = 1
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t width = 1920
+05-07 18:14:45.106 27727  5469 D CCodec  :   Rect crop(0, 0, 1919, 1079)
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t level = 1024
+05-07 18:14:45.106 27727  5469 D CCodec  : }
+05-07 18:14:45.106 27727  5469 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t android._color-format = 2135033992
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t android._video-scaling = 1
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t android._dataspace = 12648448
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t color-standard = 130816
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t color-range = 0
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t color-transfer = 65791
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t sar-height = 1
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t rotation-degrees = 0
+05-07 18:14:45.106 27727  5469 D CCodec  :   Buffer hdr-static-info = {
+05-07 18:14:45.106 27727  5469 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:45.106 27727  5469 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:45.106 27727  5469 D CCodec  :   }
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t sar-width = 1
+05-07 18:14:45.106 27727  5469 D CCodec  :   Rect crop(0, 0, 1919, 1079)
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t width = 1920
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:45.106 27727  5469 D CCodec  :   Buffer hdr10-plus-info = {
+05-07 18:14:45.106 27727  5469 D CCodec  :   }
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t height = 1080
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t max-height = 4320
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t max-width = 8192
+05-07 18:14:45.106 27727  5469 D CCodec  :   string mime = "video/raw"
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t priority = 0
+05-07 18:14:45.106 27727  5469 D CCodec  :   int32_t color-format = 21
+05-07 18:14:45.106 27727  5469 D CCodec  : }
+05-07 18:14:45.106 27727  5469 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:45.127 27727  5469 W Codec2Client: query -- param skipped: index = 1342179345.
+05-07 18:14:45.127 27727  5469 W Codec2Client: query -- param skipped: index = 2415921170.
+05-07 18:14:45.127 27727  5469 W Codec2Client: query -- param skipped: index = 1610614798.
+05-07 18:14:45.127 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] Query input allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:45.127 27727  5469 D C2Store : Using ION
+05-07 18:14:45.128 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] Created input block pool with allocatorID 16 => poolID 17 - OK (0)
+05-07 18:14:45.129 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] Query output allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:45.129 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] Configured output block pool ids 1 => OK
+05-07 18:14:45.130 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] start: updating output delay 9
+05-07 18:14:45.167 27727  5443 I MiMediaCodec: send fps to display with mFpsFromPlayer:30.000000 state:1 id:0
+05-07 18:14:45.169 27727  5469 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 10
+05-07 18:14:45.170 27727  5469 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.170 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] onWorkDone: updating output delay 10
+05-07 18:14:45.170 27727  5469 D Codec2-OutputBufferQueue: set max dequeue count 17 from update
+05-07 18:14:45.186 27727  5469 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 14
+05-07 18:14:45.186 27727  5469 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.186 27727  5469 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] onWorkDone: updating output delay 14
+05-07 18:14:45.186 27727  5469 D Codec2-OutputBufferQueue: set max dequeue count 21 from update
+05-07 18:14:45.214 27727  5469 D CCodecConfig: c2 config diff is   c2::u32 raw.color.matrix = 1
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.color.primaries = 1
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.color.range = 2
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.crop.height = 1080
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.crop.left = 0
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.crop.top = 0
+05-07 18:14:45.214 27727  5469 D CCodecConfig:   c2::u32 raw.crop.width = 1920
+05-07 18:14:45.215 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:2D-BB-Output] popFromStashAndRegister: at 0us, output format changed to AMessage(what = 0x00000000) = {
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t android._color-format = 2135033992
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t android._video-scaling = 1
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t android._dataspace = 260
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t color-standard = 1
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t color-range = 2
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t color-transfer = 3
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t sar-height = 1
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t rotation-degrees = 0
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   Buffer hdr-static-info = {
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   }
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t sar-width = 1
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   Rect crop(0, 0, 1919, 1079)
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t width = 1920
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t feature-secure-playback = 0
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t frame-rate = 30
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   Buffer hdr10-plus-info = {
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   }
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t height = 1080
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t max-height = 4320
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t max-width = 8192
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   string mime = "video/raw"
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t priority = 0
+05-07 18:14:45.215 27727  5469 D CCodecBuffers:   int32_t color-format = 21
+05-07 18:14:45.215 27727  5469 D CCodecBuffers: }
+05-07 18:14:45.227 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:2D-BB-Output] updating image-data
+05-07 18:14:45.227 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:2D-BB-Output] updating stride = 1920, width: 1920, height: 1080
+05-07 18:14:45.227 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:2D-BB-Output] updating vstride = 1080
+05-07 18:14:45.388 27727  5391 D AudioTrack: [audioTrackData][mute] 1s(f:0 m:1001 s:0 k:1001) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:45.433 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:Output[N]] updating image-data
+05-07 18:14:45.433 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:Output[N]] updating stride = 1920, width: 1920, height: 1080
+05-07 18:14:45.433 27727  5469 D CCodecBuffers: [c2.qti.hevc.decoder#46:Output[N]] updating vstride = 1080
+05-07 18:14:45.438 27727  5367 I MiMediaCodec: send fps to display when stop, state:0 mLastSendedFps:30.000000 id:0
+05-07 18:14:45.440 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.440 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.440 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.441 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.441 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.441 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.442 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.442 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.442 27727  5443 D CCodecBufferChannel: [c2.qti.hevc.decoder#46] MediaCodec discarded an unknown buffer
+05-07 18:14:45.448 27727  5506 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+05-07 18:14:45.449 27727  5443 I MediaCodec: MediaStub sendHdrInfo/sendFrameRateFloatCal/updateFrcAieAisState
+05-07 18:14:45.449 27727  5443 D MediaImpl: FRC switch off: valueSupport : true, valueOn : false
+05-07 18:14:45.449 27727  5443 D MediaImpl: AIE switch off: valueSupport : true, valueOn : false
+05-07 18:14:45.449 27727  5443 D MediaImpl: AIS switch off: valueSupport : true, valueOn : false
+05-07 18:14:45.449 27727  5443 I MediaCodec: MediaStub sendVideoPlayData
+05-07 18:14:45.449 27727  5443 D MediaImpl: sendVideoPlayData, start
+05-07 18:14:45.449 27727  5443 D MediaImpl: MediaImpl::sendVideoPlayData::mediacodec_mime : video/hevc
+05-07 18:14:45.449 27727  5443 D MediaImpl: MediaImpl::sendVideoPlayData::mediacodec_packgeName : com.YostarJP.BlueArchive
+05-07 18:14:45.449 27727  5443 D MediaImpl: MediaImpl::sendVideoPlayData::mine : video/hevc
+05-07 18:14:45.449 27727  5443 D MediaImpl: MediaImpl::sendVideoPlayData::packgeName : com.YostarJP.BlueArchive
+05-07 18:14:45.449 27727  5443 E send_data_to_xlog: send_video_play_to_xlog, start
+05-07 18:14:45.449 27727  5443 D send_data_to_xlog: send_video_play_to_xlog::mine : video/hevc
+05-07 18:14:45.449 27727  5443 D send_data_to_xlog: send_video_play_to_xlog::packgeName : com.YostarJP.BlueArchive
+05-07 18:14:45.449 27727  5443 V xlog_client:  xlog_send  msg_id: 13
+05-07 18:14:45.449 27727  5443 V xlog_client:  xlog_send 
+05-07 18:14:45.449 27727  5443 E xlog_client: xlog_open: Error in open xlog
+05-07 18:14:45.449 27727  5443 E xlog_client: xlog open fail
+05-07 18:14:45.451 27727  5443 D MediaCodec: flushMediametrics
+05-07 18:14:45.451 27727  5443 D VideoInfo: com.YostarJP.BlueArchive destroy c2.qti.hevc.decoder in MediaCodec, input num 13 output num 2 render num 0
+05-07 18:14:45.451 27727  5443 D VideoInfo: max input intervel 205ms max output intervel 197ms max render interval 0ms
+05-07 18:14:45.456 27727  5367 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:45.457 27727  5367 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:45.457 27727  5367 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:45.459 27727  5367 I MediaCodec: init video box disabled for codec not supported
+05-07 18:14:45.460 27727  5508 D CCodec  : allocate(c2.qti.hevc.decoder)
+05-07 18:14:45.463 27727  5508 I CCodec  : setting up 'default' as default (vendor) store
+05-07 18:14:45.466 27727  5508 I CCodec  : Created component [c2.qti.hevc.decoder]
+05-07 18:14:45.466 27727  5508 D CCodecConfig: read media type: video/hevc
+05-07 18:14:45.467 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_luma
+05-07 18:14:45.467 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_chroma
+05-07 18:14:45.467 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_luma
+05-07 18:14:45.467 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_chroma
+05-07 18:14:45.467 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_luma
+05-07 18:14:45.468 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_chroma
+05-07 18:14:45.468 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_luma
+05-07 18:14:45.468 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_chroma
+05-07 18:14:45.469 27727  5508 D ReflectedParamUpdater: ignored struct field vendor.qti-ext-dec-panscan.window
+05-07 18:14:45.473 27727  5508 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-07 18:14:45.474 27727  5508 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+05-07 18:14:45.474 27727  5508 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+05-07 18:14:45.474 27727  5508 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+05-07 18:14:45.475 27727  5508 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:45.476 27727  5508 D CCodecConfig: c2 config diff is Dict {
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::i32 algo.priority.value = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::float algo.rate.value = 30
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 coded.pl.level = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 coded.pl.profile = 24576
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 default.color.matrix = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 default.color.primaries = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 default.color.range = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 default.color.transfer = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8847360
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   string input.media-type.value = "video/hevc"
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 output.delay.value = 9
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   Buffer output.hdr10-plus-info.value = {
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   }
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   string output.media-type.value = "video/raw"
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 raw.color.matrix = 255
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 raw.color.range = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::u32 raw.color.transfer = 255
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.x = 0
+05-07 18:14:45.476 27727  5508 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.y = 
+05-07 18:14:45.477 27727  5508 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.478 27727  5367 D VideoInfo: com.YostarJP.BlueArchive create c2.qti.hevc.decoder in MediaCodec
+05-07 18:14:45.478 27727  5367 I MediaCodec: fps video to display enabled
+05-07 18:14:45.478 27727  5367 I MiMediaCodecStub: MiMediaCodecStub::MiMediaCodecStub
+05-07 18:14:45.480 27727  5367 I MediaCodec: The Fps from player is 30.000000  frameRateFloat 30.000000 frameRateInt 30
+05-07 18:14:45.480 27727  5367 I MediaCodec: MediaStub sendFrameRate
+05-07 18:14:45.480 27727  5367 D MediaImpl: MediaImpl::sendFrameRate: 30
+05-07 18:14:45.481 27727  5367 I MediaCodec: MediaStub sendMine
+05-07 18:14:45.481 27727  5367 D MediaImpl: MediaImpl::sendMine: video/hevc
+05-07 18:14:45.481 27727  5367 D MediaStub: MediaStub::sendMine video/hevc
+05-07 18:14:45.481 27727  5367 D MediaCodec: currery video type video/hevc
+05-07 18:14:45.481 27727  5367 I MediaCodec: MediaStub sendDolbyVision
+05-07 18:14:45.481 27727  5367 I MediaCodec: MediaStub sendPackageName
+05-07 18:14:45.481 27727  5367 D MediaImpl: MediaImpl::sendPackageName: com.YostarJP.BlueArchive
+05-07 18:14:45.481 27727  5367 D MediaStub: MediaStub::sendPackageName com.YostarJP.BlueArchive
+05-07 18:14:45.481 27727  5367 I MediaCodec: MediaStub sendWidth/sendHeight
+05-07 18:14:45.481 27727  5367 I MediaCodec: configure : init video box disabled
+05-07 18:14:45.481 27727  5507 D MediaCodec: flushMediametrics
+05-07 18:14:45.481 27727  5508 D CCodec  : [c2.qti.hevc.decoder] buffers are bound to CCodec for this session
+05-07 18:14:45.482 27727  5508 D CCodec  : Client requested ByteBuffer mode decoder w/o color format set: using default semi-planar color format
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for durationUs
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for frame-count
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for track-id
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for language
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for display-width
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for display-height
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for android._is-hdr
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for color-standard
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for file-format
+05-07 18:14:45.482 27727  5508 D CCodecConfig: no c2 equivalents for flags
+05-07 18:14:45.483 27727  5508 D CCodecConfig: c2 config diff is   c2::u32 coded.pl.level = 24581
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 default.color.matrix = 1
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 default.color.primaries = 1
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 default.color.range = 2
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 default.color.transfer = 3
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 raw.pixel-format.value = 35
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 raw.size.height = 1080
+05-07 18:14:45.483 27727  5508 D CCodecConfig:   c2::u32 raw.size.width = 1920
+05-07 18:14:45.483 27727  5508 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.484 27727  5508 W Codec2Client: query -- param skipped: index = 1107298332.
+05-07 18:14:45.484 27727  5508 D CCodec  : client requested max input size 1555200, which is smaller than what component recommended (8847360); overriding with component recommendation.
+05-07 18:14:45.484 27727  5508 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+05-07 18:14:45.484 27727  5508 D CCodec  : encoding statistics level = 0
+05-07 18:14:45.484 27727  5508 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t height = 1080
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t max-input-size = 8847360
+05-07 18:14:45.484 27727  5508 D CCodec  :   string mime = "video/hevc"
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t priority = 0
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t profile = 1
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t width = 1920
+05-07 18:14:45.484 27727  5508 D CCodec  :   Rect crop(0, 0, 1919, 1079)
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t level = 1024
+05-07 18:14:45.484 27727  5508 D CCodec  : }
+05-07 18:14:45.484 27727  5508 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t android._color-format = 2135033992
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t android._video-scaling = 1
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t android._dataspace = 12648448
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t color-standard = 130816
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t color-range = 0
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t color-transfer = 65791
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t sar-height = 1
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t rotation-degrees = 0
+05-07 18:14:45.484 27727  5508 D CCodec  :   Buffer hdr-static-info = {
+05-07 18:14:45.484 27727  5508 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:45.484 27727  5508 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:45.484 27727  5508 D CCodec  :   }
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t sar-width = 1
+05-07 18:14:45.484 27727  5508 D CCodec  :   Rect crop(0, 0, 1919, 1079)
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t width = 1920
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:45.484 27727  5508 D CCodec  :   Buffer hdr10-plus-info = {
+05-07 18:14:45.484 27727  5508 D CCodec  :   }
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t height = 1080
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t max-height = 4320
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t max-width = 8192
+05-07 18:14:45.484 27727  5508 D CCodec  :   string mime = "video/raw"
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t priority = 0
+05-07 18:14:45.484 27727  5508 D CCodec  :   int32_t color-format = 21
+05-07 18:14:45.484 27727  5508 D CCodec  : }
+05-07 18:14:45.485 27727  5508 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:45.493 27727  5508 W Codec2Client: query -- param skipped: index = 1342179345.
+05-07 18:14:45.493 27727  5508 W Codec2Client: query -- param skipped: index = 2415921170.
+05-07 18:14:45.493 27727  5508 W Codec2Client: query -- param skipped: index = 1610614798.
+05-07 18:14:45.493 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] Query input allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:45.494 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] Created input block pool with allocatorID 16 => poolID 18 - OK (0)
+05-07 18:14:45.494 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] Query output allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:45.495 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] Configured output block pool ids 1 => OK
+05-07 18:14:45.495 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] start: updating output delay 9
+05-07 18:14:45.510 27727  5507 I MiMediaCodec: send fps to display with mFpsFromPlayer:30.000000 state:1 id:1
+05-07 18:14:45.511 27727  5473 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] Ignoring stale input buffer done callback: last flush index = 0, frameIndex = 0
+05-07 18:14:45.512 27727  5508 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 10
+05-07 18:14:45.512 27727  5508 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.513 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] onWorkDone: updating output delay 10
+05-07 18:14:45.513 27727  5508 D Codec2-OutputBufferQueue: set max dequeue count 17 from update
+05-07 18:14:45.533 27727  5508 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 14
+05-07 18:14:45.534 27727  5508 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:45.534 27727  5508 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] onWorkDone: updating output delay 14
+05-07 18:14:45.534 27727  5508 D Codec2-OutputBufferQueue: set max dequeue count 21 from update
+05-07 18:14:45.541 27727  5508 D CCodecConfig: c2 config diff is   c2::u32 raw.color.matrix = 1
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.color.primaries = 1
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.color.range = 2
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.crop.height = 1080
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.crop.left = 0
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.crop.top = 0
+05-07 18:14:45.541 27727  5508 D CCodecConfig:   c2::u32 raw.crop.width = 1920
+05-07 18:14:45.542 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:2D-BB-Output] popFromStashAndRegister: at 0us, output format changed to AMessage(what = 0x00000000) = {
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t android._color-format = 2135033992
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t android._video-scaling = 1
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t android._dataspace = 260
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t color-standard = 1
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t color-range = 2
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t color-transfer = 3
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t sar-height = 1
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t rotation-degrees = 0
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   Buffer hdr-static-info = {
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   }
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t sar-width = 1
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   Rect crop(0, 0, 1919, 1079)
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t width = 1920
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t feature-secure-playback = 0
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t frame-rate = 30
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   Buffer hdr10-plus-info = {
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   }
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t height = 1080
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t max-height = 4320
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t max-width = 8192
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   string mime = "video/raw"
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t priority = 0
+05-07 18:14:45.542 27727  5508 D CCodecBuffers:   int32_t color-format = 21
+05-07 18:14:45.542 27727  5508 D CCodecBuffers: }
+05-07 18:14:45.555 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:2D-BB-Output] updating image-data
+05-07 18:14:45.555 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:2D-BB-Output] updating stride = 1920, width: 1920, height: 1080
+05-07 18:14:45.555 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:2D-BB-Output] updating vstride = 1080
+05-07 18:14:45.735 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:Output[N]] updating image-data
+05-07 18:14:45.735 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:Output[N]] updating stride = 1920, width: 1920, height: 1080
+05-07 18:14:45.735 27727  5508 D CCodecBuffers: [c2.qti.hevc.decoder#95:Output[N]] updating vstride = 1080
+05-07 18:14:46.388 27727  5391 D AudioTrack: [audioTrackData][mute] 2s(f:0 m:2001 s:0 k:2001) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:46.692 27727  5432 W Choreographer: Frame time is 0.120448 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+05-07 18:14:46.890 27727  5507 I MiMediaCodec: VideoToDisplayRealtimeFramerate send fps to display when stop
+05-07 18:14:46.890 27727  5507 I MiMediaCodec: send fps to display when stop, state:0 mLastSendedFps:30.000000 id:1
+05-07 18:14:47.388 27727  5391 D AudioTrack: [audioTrackData][mute] 3s(f:0 m:3001 s:0 k:3001) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:47.614 27727 27727 W Thread-26: type=1400 audit(0.0:567602): avc: denied { read } for name="tcp" dev="proc" ino=4026532142 scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:object_r:proc_net_tcp_udp:s0 tclass=file permissive=0 app=com.zzkko
+05-07 18:14:47.621 27727  5244 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.google.android.play.core.internal.ai
+05-07 18:14:47.621 27727  5244 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+05-07 18:14:47.618 27727 27727 W FinalizerDaemon: type=1400 audit(0.0:567603): avc: denied { getopt } for path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=0 app=com.zzkko
+05-07 18:14:47.621 27727  5245 W System  : A resource failed to call AbstractCursor.close. 
+05-07 18:14:47.622 27727  5245 W System  : A resource failed to call CursorWrapperInner.close. 
+05-07 18:14:47.790 27727  5507 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] MediaCodec discarded an unknown buffer
+05-07 18:14:47.790 27727  5507 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] MediaCodec discarded an unknown buffer
+05-07 18:14:47.790 27727  5507 D CCodecBufferChannel: [c2.qti.hevc.decoder#95] MediaCodec discarded an unknown buffer
+05-07 18:14:47.799 27727  5519 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+05-07 18:14:47.800 27727  5507 I MediaCodec: MediaStub sendHdrInfo/sendFrameRateFloatCal/updateFrcAieAisState
+05-07 18:14:47.800 27727  5507 D MediaImpl: FRC switch off: valueSupport : true, valueOn : false
+05-07 18:14:47.800 27727  5507 D MediaImpl: AIE switch off: valueSupport : true, valueOn : false
+05-07 18:14:47.800 27727  5507 D MediaImpl: AIS switch off: valueSupport : true, valueOn : false
+05-07 18:14:47.800 27727  5507 I MediaCodec: MediaStub sendVideoPlayData
+05-07 18:14:47.800 27727  5507 D MediaImpl: sendVideoPlayData, start
+05-07 18:14:47.800 27727  5507 D MediaImpl: MediaImpl::sendVideoPlayData::mediacodec_mime : video/hevc
+05-07 18:14:47.800 27727  5507 D MediaImpl: MediaImpl::sendVideoPlayData::mediacodec_packgeName : com.YostarJP.BlueArchive
+05-07 18:14:47.800 27727  5507 D MediaImpl: MediaImpl::sendVideoPlayData::mine : video/hevc
+05-07 18:14:47.801 27727  5507 D MediaImpl: MediaImpl::sendVideoPlayData::packgeName : com.YostarJP.BlueArchive
+05-07 18:14:47.801 27727  5507 E send_data_to_xlog: send_video_play_to_xlog, start
+05-07 18:14:47.801 27727  5507 D send_data_to_xlog: send_video_play_to_xlog::mine : video/hevc
+05-07 18:14:47.801 27727  5507 D send_data_to_xlog: send_video_play_to_xlog::packgeName : com.YostarJP.BlueArchive
+05-07 18:14:47.801 27727  5507 V xlog_client:  xlog_send  msg_id: 13
+05-07 18:14:47.801 27727  5507 V xlog_client:  xlog_send 
+05-07 18:14:47.801 27727  5507 E xlog_client: xlog_open: Error in open xlog
+05-07 18:14:47.801 27727  5507 E xlog_client: xlog open fail
+05-07 18:14:47.802 27727  5507 D MediaCodec: flushMediametrics
+05-07 18:14:47.802 27727  5507 D VideoInfo: com.YostarJP.BlueArchive destroy c2.qti.hevc.decoder in MediaCodec, input num 61 output num 61 render num 0
+05-07 18:14:47.802 27727  5507 D VideoInfo: max input intervel 168ms max output intervel 159ms max render interval 0ms
+05-07 18:14:48.121 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:48.121 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:48.121 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:48.121 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:48.121 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:48.123 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:48.123 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:48.123 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:48.123 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:48.123 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:48.123 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:48.123 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:48.123 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:48.123 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:48.303 27727  5291 I Unity   : [AiriSDK]: Load SDKConfig: {"VERSION":"2.5.1","Environment":0,"IsShowDebugLog":false,"TestURL":"https://ba-jp-sdk.bluearchive.jp","ReleaseURL":"https://ba-jp-sdk.bluearchive.jp","SDK_URL":"https://ba-jp-sdk.bluearchive.jp","PayStoreID":0,"IsSandbox":true,"FBAppID":"","TWKey":"dnlSQzBBZGdQbDZ0czNabF9WQms6MTpjaQ","HS_ApiKey":"","HS_Domain":"","HS_AndroidAppID":"","HS_IOSAppID":"","Amazon_ApiKey":"","OneStore_PublicKey":"","CSEmailDesc":"","CSWebDesc":""}
+05-07 18:14:48.303 27727  5291 I Unity   : Airisdk.AiriSdkData:Init()
+05-07 18:14:48.303 27727  5291 I Unity   : Airisdk.AiriSDKUnity:Init()
+05-07 18:14:48.303 27727  5291 I Unity   : Airisdk.AiriSDKAndroid:Init(PayStore)
+05-07 18:14:48.303 27727  5291 I Unity   : PlatformServiceYostar:Init()
+05-07 18:14:48.303 27727  5291 I Unity   : GameMain:InitSDK()
+05-07 18:14:48.303 27727  5291 I Unity   : <InitApp>d__76:MoveNext()
+05-07 18:14:48.303 27727  5291 I Unity   : UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+05-07 18:14:48.303 27727  5291 I Unity   : 
+05-07 18:14:48.389 27727  5391 D AudioTrack: [audioTrackData][mute] 4s(f:0 m:4001 s:0 k:4001) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:48.410 27727 27727 I SLSAndroid: module: SLSAndroid, start pre init SLS Android SDK.
+05-07 18:14:48.410 27727 27727 I SLSAndroid: module: SLSAndroid, start pre init feature: com.aliyun.sls.android.network_diagnosis.NetworkDiagnosisFeature
+05-07 18:14:48.418 27727 27727 W AliNetworkDiagnosis: alinetworkdiagnosis ver 0.1.9.6, compile time: May  9 2023 14:00:39
+05-07 18:14:48.420 27727 27727 D ns-crypto: verify secret success
+05-07 18:14:48.420 27727 27727 D com.alibaba.netspeed.network.Diagnosis: init set appKey:VCKNFoh8HeFDhWDTBFtRMz, deviceId:NWFmMWM2ZWY4MjYzNDY2NA==, siteId:null
+05-07 18:14:48.420 27727 27727 D com.alibaba.netspeed.network.Diagnosis: version: 0.1.9.6, init set appKey:VCKNFoh8HeFDhWDTBFtRMz, deviceId:NWFmMWM2ZWY4MjYzNDY2NA==, siteId:null
+05-07 18:14:48.420 27727 27727 D com.alibaba.netspeed.network.Diagnosis: start netspeed task
+05-07 18:14:48.420 27727 27727 D com.alibaba.netspeed.network.Diagnosis: start netspeed release network task
+05-07 18:14:48.424 27727  5546 D TrafficStats: tagSocket(167) with statsTag=0x7fa162d9, statsUid=-1
+05-07 18:14:48.427 27727  5554 E sls_android_native: [ERROR] [log_producer_config.c][log_producer_config_is_valid:407] invalid producer config authority params
+05-07 18:14:48.427 27727  5555 E sls_android_native: [ERROR] [log_producer_config.c][log_producer_config_is_valid:407] invalid producer config authority params
+05-07 18:14:48.428 27727  5555 D logger-debug: new logClient
+05-07 18:14:48.428 27727  5555 E sls_android_native: [ERROR] [log_producer_config.c][log_producer_config_is_valid:407] invalid producer config authority params
+05-07 18:14:48.428 27727 27727 I SLSAndroid: module: SLSAndroid, pre init feature success, feature: com.aliyun.sls.android.network_diagnosis.NetworkDiagnosisFeature
+05-07 18:14:48.428 27727 27727 I SLSAndroid: module: SLSAndroid, SLS Android pre initialize success.
+05-07 18:14:48.428 27727 27727 I SLSAndroid: module: SLSAndroid, start init SLS Android SDK.
+05-07 18:14:48.428 27727 27727 I SLSAndroid: module: SLSAndroid, start init features
+05-07 18:14:48.430 27727 27727 D com.alibaba.netspeed.network.Diagnosis: version: 0.1.9.6, init set appKey:VCKNFoh8HeFDhWDTBFtRMz, deviceId:NWFmMWM2ZWY4MjYzNDY2NA==, siteId:null
+05-07 18:14:48.430 27727 27727 I SLSAndroid: module: SLSAndroid, init feature success, feature: network_diagnosis
+05-07 18:14:48.430 27727 27727 I SLSAndroid: module: SLSAndroid, SLS Android initialize success.
+05-07 18:14:48.431 27727  5554 E sls_android_native: [ERROR] [log_producer_config.c][log_producer_config_is_valid:407] invalid producer config authority params
+05-07 18:14:48.432 27727  5554 I SLSAndroid: module: ns-policy, syncPolicy now
+05-07 18:14:48.438 27727  5543 D TrafficStats: tagSocket(232) with statsTag=0x7fa162d9, statsUid=-1
+05-07 18:14:48.445 27727  5571 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, multiplePortsDetect not on
+05-07 18:14:48.450 27727  5554 D TrafficStats: tagSocket(225) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.455 27727  5579 D TrafficStats: tagSocket(226) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.458 27727  5575 D TrafficStats: tagSocket(235) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.463 27727  5565 D TrafficStats: tagSocket(219) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.469 27727  5571 D TrafficStats: tagSocket(231) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.493 27727  5576 D TrafficStats: tagSocket(234) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.493 27727  5564 D TrafficStats: tagSocket(223) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.494 27727  5568 D TrafficStats: tagSocket(224) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.540 27727  5291 D rJP.BlueArchive: PlayerBase::stop() from IPlayer
+05-07 18:14:48.540 27727  5291 D AudioTrack: stop(sessionID=14937)
+05-07 18:14:48.540 27727  5291 D AudioTrack: stop(2654): prior state:STATE_ACTIVE
+05-07 18:14:48.540 27727  5291 D AudioTrack: stop(2654): called with 195072 frames delivered
+05-07 18:14:48.549 27727 27727 W Activity: PerfMonitor: Slow Operation: Activity com.YostarJP.BlueArchive/com.yostarjp.bluearchive.MxUnityPlayerActivity onPause took 117ms
+05-07 18:14:48.561 27727 27727 D DecorView[MxUnityPlayerActivity]: getWindowModeFromSystem  windowmode is 1
+05-07 18:14:48.561 27727 27727 D DecorView[MxUnityPlayerActivity]: updateDecorCaptionStatus windowMode is 1
+05-07 18:14:48.574 27727 27727 E AIHelp  : Please ensure AIHelpSupport#init is called at the very first place before you call any other API.
+05-07 18:14:48.594 27727 27727 E DEBUG   : DEBUG0.0
+05-07 18:14:48.594 27727 27727 E DEBUG   : DEBUG0
+05-07 18:14:48.599 27727 27727 W com.facebook.UserSettingsManager: Please set a value for AutoLogAppEventsEnabled. Set the flag to TRUE if you want to collect app install, app launch and in-app purchase events automatically. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+05-07 18:14:48.599 27727 27727 W com.facebook.UserSettingsManager: You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+05-07 18:14:48.611 27727  5603 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:48.614 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:48.619 27727  5607 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:48.619 27727  5607 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:48.635 27727  5606 D TrafficStats: tagSocket(263) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.635 27727  5603 D TrafficStats: tagSocket(261) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.636 27727  5607 D TrafficStats: tagSocket(268) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:48.645 27727 27727 W BillingClient: Client is already in the process of connecting to billing service.
+05-07 18:14:48.654 27727 27727 W Adjust  : PRODUCTION: Adjust is running in Production mode. Use this setting only for the build that you want to publish. Set the environment to `sandbox` if you want to test your app!
+05-07 18:14:48.655 27727 27727 W Adjust  : PRODUCTION: Adjust is running in Production mode. Use this setting only for the build that you want to publish. Set the environment to `sandbox` if you want to test your app!
+05-07 18:14:48.678 27727 27727 D DecorView[MxUnityPlayerActivity]: onWindowFocusChanged hasWindowFocus false
+05-07 18:14:48.682 27727 27727 E AIHelp  : Please ensure AIHelpSupport#init is called at the very first place before you call any other API.
+05-07 18:14:48.723 27727  5245 W System  : A resource failed to call close. 
+05-07 18:14:48.723 27727  5245 W System  : A resource failed to call close. 
+05-07 18:14:48.723 27727  5245 W SQLiteConnectionPool: A SQLiteConnection object for database '/storage/emulated/0/Android/data/com.YostarJP.BlueArchive/files/Database/airisdk.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.
+05-07 18:14:48.723 27727  5245 W System  : A resource failed to call SQLiteConnection.close. 
+05-07 18:14:48.723 27727  5245 W System  : A resource failed to call SQLiteConnectionPool.close. 
+05-07 18:14:48.723 27727  5245 W System  : A resource failed to call close. 
+05-07 18:14:48.728 27727 27727 D DecorView[MxUnityPlayerActivity]: getWindowModeFromSystem  windowmode is 1
+05-07 18:14:48.728 27727 27727 D DecorView[MxUnityPlayerActivity]: updateDecorCaptionStatus windowMode is 1
+05-07 18:14:48.747 27727 27727 D CompatibilityChangeReporter: Compat change id reported: 78294732; UID 10730; state: ENABLED
+05-07 18:14:48.748 27727 27727 D FacebookSDK.com.facebook.appevents.internal.ActivityLifecycleTracker: onActivityResumed
+05-07 18:14:48.757 27727  5637 D FacebookSDK.AppEvents: Created app event '{"_eventName":"fb_mobile_activate_app","_eventName_md5":"cb7f3b6cd294afce05ece615d43ea7b9","_logTime":1715073288,"_ui":"MxUnityPlayerActivity","_session_id":"dda1bdd9-6140-498b-9a26-97f9fa4f6506","fb_mobile_launch_source":"Unclassified","fb_mobile_pckg_fp":"5e9ab942958016d969509a6efb6cd94e","fb_mobile_app_cert_hash":"m3ijSbZYi6WTC2YZ9QSYQq9lCNA=\n","_inBackground":"1"}'
+05-07 18:14:48.761 27727 27727 D DecorView[MxUnityPlayerActivity]: onWindowFocusChanged hasWindowFocus true
+05-07 18:14:48.761 27727 27727 I HandWritingStubImpl: refreshLastKeyboardType: 1
+05-07 18:14:48.761 27727 27727 I HandWritingStubImpl: getCurrentKeyboardType: 1
+05-07 18:14:48.768 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:48.768 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:48.768 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:48.768 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:48.768 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:48.770 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:48.770 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:48.770 27727  5291 E qdgralloc: GetGpuPixelFormat: No map for format: 0x38
+05-07 18:14:48.770 27727  5291 E AdrenoUtils: <validate_memory_layout_input_parmas:1970>: Unknown Format 0
+05-07 18:14:48.770 27727  5291 E AdrenoUtils: <adreno_init_memory_layout:4720>: Memory Layout input parameter validation failed!
+05-07 18:14:48.770 27727  5291 E qdgralloc: GetGpuResourceSizeAndDimensions Graphics metadata init failed
+05-07 18:14:48.770 27727  5291 E Gralloc4: isSupported(1, 1, 56, 1, ...) failed with 1
+05-07 18:14:48.770 27727  5291 E GraphicBufferAllocator: Failed to allocate (4 x 4) layerCount 1 format 56 usage b00: 1
+05-07 18:14:48.770 27727  5291 E AHardwareBuffer: GraphicBuffer(w=4, h=4, lc=1) failed (Unknown error -1), handle=0x0
+05-07 18:14:48.771 27727  5616 D nativeloader: Configuring clns-6 for other apk /system/framework/org.apache.http.legacy.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/lib/arm64:/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+05-07 18:14:48.771 27727  5616 D nativeloader: Extending system_exposed_libraries: libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libQOC.qti.so:libmisys_jni.xiaomi.so:libupdateprof.qti.so:libthermalclient.qti.so:libQOC.qti.so:libdiag_system.qti.so:libqape.qti.so:liblistenjni.qti.so
+05-07 18:14:48.788 27727  5616 D nativeloader: Configuring clns-7 for other apk /system/framework/com.android.media.remotedisplay.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/lib/arm64:/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+05-07 18:14:48.788 27727  5616 D nativeloader: Extending system_exposed_libraries: libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libQOC.qti.so:libmisys_jni.xiaomi.so:libupdateprof.qti.so:libthermalclient.qti.so:libQOC.qti.so:libdiag_system.qti.so:libqape.qti.so:liblistenjni.qti.so
+05-07 18:14:48.800 27727  5616 D nativeloader: Configuring clns-8 for other apk /system/framework/com.android.location.provider.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/lib/arm64:/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+05-07 18:14:48.800 27727  5616 D nativeloader: Extending system_exposed_libraries: libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libQOC.qti.so:libmisys_jni.xiaomi.so:libupdateprof.qti.so:libthermalclient.qti.so:libQOC.qti.so:libdiag_system.qti.so:libqape.qti.so:liblistenjni.qti.so
+05-07 18:14:48.810 27727  5291 D AudioTrack: start(2654): prior state:STATE_STOPPED
+05-07 18:14:48.811 27727 27727 D MediaRouter: onRestoreRoute() : route=RouteInfo{ name=モバイル デバイス, description=null, status=null, category=RouteCategory{ name=システム types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+05-07 18:14:48.811 27727 27727 V MediaRouter: Selecting route: RouteInfo{ name=モバイル デバイス, description=null, status=null, category=RouteCategory{ name=システム types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+05-07 18:14:48.812 27727  5616 D nativeloader: Configuring clns-9 for other apk /data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/base.apk. target_sdk_version=34, uses_libraries=, library_path=/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/lib/arm64:/data/app/~~-XqLzXuiCh3VynuF6EZmow==/com.google.android.gms-eGEJmnp8_oinvlPFsnab4Q==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+05-07 18:14:48.812 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:48.813 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:48.813 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:48.834 27727  5607 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:48.834 27727  5607 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:48.834 27727  5607 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:48.852 27727  5603 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:48.891 27727  5616 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:48.891 27727  5616 W AnalyticsUserIDStore: initStore should have been called before calling setUserID
+05-07 18:14:48.926 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: Flushing 1 events due to EXPLICIT.
+05-07 18:14:48.954 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:48.955 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:48.955 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:48.999 27727  5607 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:49.012 27727  5291 W BpBinder: PerfMonitor binderTransact :  time=202ms interface=android.media.IAudioTrack code=2
+05-07 18:14:49.014 27727  5603 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:49.014 27727  5603 D GraphRequest: Warning: Request without access token missing application ID or client token.
+05-07 18:14:49.014 27727  5603 D GraphRequest: Warning: Request without access token missing application ID or client token.
+05-07 18:14:49.014 27727  5603 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:49.114 27727  5364 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:49.115 27727  5364 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:49.118 27727  5364 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:49.123 27727  5364 I MediaCodec: init video box disabled for codec not supported
+05-07 18:14:49.124 27727  5657 D CCodec  : allocate(c2.qti.hevc.decoder)
+05-07 18:14:49.129 27727  5657 I CCodec  : setting up 'default' as default (vendor) store
+05-07 18:14:49.133 27727  5657 I CCodec  : Created component [c2.qti.hevc.decoder]
+05-07 18:14:49.134 27727  5657 D CCodecConfig: read media type: video/hevc
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_luma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_chroma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_luma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_chroma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_luma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_chroma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_luma
+05-07 18:14:49.136 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_chroma
+05-07 18:14:49.138 27727  5657 D ReflectedParamUpdater: ignored struct field vendor.qti-ext-dec-panscan.window
+05-07 18:14:49.146 27727  5657 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-07 18:14:49.146 27727  5657 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+05-07 18:14:49.146 27727  5657 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+05-07 18:14:49.146 27727  5657 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+05-07 18:14:49.148 27727  5657 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:49.148 27727  5657 D CCodecConfig: c2 config diff is Dict {
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::i32 algo.priority.value = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::float algo.rate.value = 30
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 coded.pl.level = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 coded.pl.profile = 24576
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 default.color.matrix = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 default.color.primaries = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 default.color.range = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 default.color.transfer = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8847360
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   string input.media-type.value = "video/hevc"
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 output.delay.value = 9
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   Buffer output.hdr10-plus-info.value = {
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   }
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   string output.media-type.value = "video/raw"
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 raw.color.matrix = 255
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 raw.color.range = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::u32 raw.color.transfer = 255
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.x = 0
+05-07 18:14:49.148 27727  5657 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.y = 
+05-07 18:14:49.149 27727  5657 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.151 27727  5364 D VideoInfo: com.YostarJP.BlueArchive create c2.qti.hevc.decoder in MediaCodec
+05-07 18:14:49.151 27727  5364 I MediaCodec: fps video to display enabled
+05-07 18:14:49.151 27727  5364 I MiMediaCodecStub: MiMediaCodecStub::MiMediaCodecStub
+05-07 18:14:49.155 27727  5364 I MediaCodec: The Fps from player is 30.000000  frameRateFloat 30.000000 frameRateInt 30
+05-07 18:14:49.156 27727  5364 I MediaCodec: MediaStub sendFrameRate
+05-07 18:14:49.156 27727  5364 D MediaImpl: MediaImpl::sendFrameRate: 30
+05-07 18:14:49.160 27727  5364 I MediaCodec: MediaStub sendMine
+05-07 18:14:49.160 27727  5364 D MediaImpl: MediaImpl::sendMine: video/hevc
+05-07 18:14:49.160 27727  5364 D MediaStub: MediaStub::sendMine video/hevc
+05-07 18:14:49.161 27727  5364 D MediaCodec: currery video type video/hevc
+05-07 18:14:49.161 27727  5364 I MediaCodec: MediaStub sendDolbyVision
+05-07 18:14:49.161 27727  5364 I MediaCodec: MediaStub sendPackageName
+05-07 18:14:49.161 27727  5364 D MediaImpl: MediaImpl::sendPackageName: com.YostarJP.BlueArchive
+05-07 18:14:49.161 27727  5364 D MediaStub: MediaStub::sendPackageName com.YostarJP.BlueArchive
+05-07 18:14:49.161 27727  5364 I MediaCodec: MediaStub sendWidth/sendHeight
+05-07 18:14:49.161 27727  5364 I MediaCodec: configure : init video box disabled
+05-07 18:14:49.161 27727  5656 D MediaCodec: flushMediametrics
+05-07 18:14:49.162 27727  5657 D CCodec  : [c2.qti.hevc.decoder] buffers are bound to CCodec for this session
+05-07 18:14:49.162 27727  5657 D CCodec  : Client requested ByteBuffer mode decoder w/o color format set: using default semi-planar color format
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for durationUs
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for frame-count
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for track-id
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for language
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for display-width
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for display-height
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for android._is-hdr
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for color-standard
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for file-format
+05-07 18:14:49.162 27727  5657 D CCodecConfig: no c2 equivalents for flags
+05-07 18:14:49.164 27727  5657 D CCodecConfig: c2 config diff is   c2::u32 coded.pl.level = 24581
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 default.color.matrix = 1
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 default.color.primaries = 1
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 default.color.range = 2
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 default.color.transfer = 3
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 raw.pixel-format.value = 35
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 raw.size.height = 720
+05-07 18:14:49.164 27727  5657 D CCodecConfig:   c2::u32 raw.size.width = 1560
+05-07 18:14:49.165 27727  5657 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.166 27727  5657 W Codec2Client: query -- param skipped: index = 1107298332.
+05-07 18:14:49.166 27727  5657 D CCodec  : client requested max input size 842400, which is smaller than what component recommended (8847360); overriding with component recommendation.
+05-07 18:14:49.166 27727  5657 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+05-07 18:14:49.166 27727  5657 D CCodec  : encoding statistics level = 0
+05-07 18:14:49.166 27727  5657 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t height = 720
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t max-input-size = 8847360
+05-07 18:14:49.166 27727  5657 D CCodec  :   string mime = "video/hevc"
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t priority = 0
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t profile = 1
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t width = 1560
+05-07 18:14:49.166 27727  5657 D CCodec  :   Rect crop(0, 0, 1559, 719)
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t level = 1024
+05-07 18:14:49.166 27727  5657 D CCodec  : }
+05-07 18:14:49.166 27727  5657 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t android._color-format = 2135033992
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t android._video-scaling = 1
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t android._dataspace = 12648448
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t color-standard = 130816
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t color-range = 0
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t color-transfer = 65791
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t sar-height = 1
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t rotation-degrees = 0
+05-07 18:14:49.166 27727  5657 D CCodec  :   Buffer hdr-static-info = {
+05-07 18:14:49.166 27727  5657 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:49.166 27727  5657 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:49.166 27727  5657 D CCodec  :   }
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t sar-width = 1
+05-07 18:14:49.166 27727  5657 D CCodec  :   Rect crop(0, 0, 1559, 719)
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t width = 1560
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:49.166 27727  5657 D CCodec  :   Buffer hdr10-plus-info = {
+05-07 18:14:49.166 27727  5657 D CCodec  :   }
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t height = 720
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t max-height = 4320
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t max-width = 8192
+05-07 18:14:49.166 27727  5657 D CCodec  :   string mime = "video/raw"
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t priority = 0
+05-07 18:14:49.166 27727  5657 D CCodec  :   int32_t color-format = 21
+05-07 18:14:49.166 27727  5657 D CCodec  : }
+05-07 18:14:49.166 27727  5657 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:49.174 27727  5657 W Codec2Client: query -- param skipped: index = 1342179345.
+05-07 18:14:49.174 27727  5657 W Codec2Client: query -- param skipped: index = 2415921170.
+05-07 18:14:49.174 27727  5657 W Codec2Client: query -- param skipped: index = 1610614798.
+05-07 18:14:49.175 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] Query input allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:49.175 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] Created input block pool with allocatorID 16 => poolID 19 - OK (0)
+05-07 18:14:49.175 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] Query output allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:49.176 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] Configured output block pool ids 1 => OK
+05-07 18:14:49.176 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] start: updating output delay 9
+05-07 18:14:49.208 27727  5656 I MiMediaCodec: send fps to display with mFpsFromPlayer:30.000000 state:1 id:2
+05-07 18:14:49.210 27727  5657 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 10
+05-07 18:14:49.211 27727  5657 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.211 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] onWorkDone: updating output delay 10
+05-07 18:14:49.211 27727  5657 D Codec2-OutputBufferQueue: set max dequeue count 17 from update
+05-07 18:14:49.230 27727  5657 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 13
+05-07 18:14:49.231 27727  5657 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.231 27727  5657 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] onWorkDone: updating output delay 13
+05-07 18:14:49.231 27727  5657 D Codec2-OutputBufferQueue: set max dequeue count 20 from update
+05-07 18:14:49.246 27727  5657 D CCodecConfig: c2 config diff is   c2::u32 raw.color.matrix = 1
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.color.primaries = 1
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.color.range = 2
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.crop.height = 720
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.crop.left = 0
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.crop.top = 0
+05-07 18:14:49.246 27727  5657 D CCodecConfig:   c2::u32 raw.crop.width = 1560
+05-07 18:14:49.247 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:2D-BB-Output] popFromStashAndRegister: at 0us, output format changed to AMessage(what = 0x00000000) = {
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t android._color-format = 2135033992
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t android._video-scaling = 1
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t android._dataspace = 260
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t color-standard = 1
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t color-range = 2
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t color-transfer = 3
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t sar-height = 1
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t rotation-degrees = 0
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   Buffer hdr-static-info = {
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   }
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t sar-width = 1
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   Rect crop(0, 0, 1559, 719)
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t width = 1560
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t feature-secure-playback = 0
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t frame-rate = 30
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   Buffer hdr10-plus-info = {
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   }
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t height = 720
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t max-height = 4320
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t max-width = 8192
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   string mime = "video/raw"
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t priority = 0
+05-07 18:14:49.247 27727  5657 D CCodecBuffers:   int32_t color-format = 21
+05-07 18:14:49.247 27727  5657 D CCodecBuffers: }
+05-07 18:14:49.261 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:2D-BB-Output] updating image-data
+05-07 18:14:49.261 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:2D-BB-Output] updating stride = 1560, width: 1560, height: 720
+05-07 18:14:49.261 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:2D-BB-Output] updating vstride = 720
+05-07 18:14:49.385 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:Output[N]] updating image-data
+05-07 18:14:49.385 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:Output[N]] updating stride = 1560, width: 1560, height: 720
+05-07 18:14:49.385 27727  5657 D CCodecBuffers: [c2.qti.hevc.decoder#856:Output[N]] updating vstride = 720
+05-07 18:14:49.390 27727  5364 I MiMediaCodec: send fps to display when stop, state:0 mLastSendedFps:30.000000 id:2
+05-07 18:14:49.391 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.391 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.392 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.392 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.392 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.393 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.393 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.393 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.393 27727  5656 D CCodecBufferChannel: [c2.qti.hevc.decoder#856] MediaCodec discarded an unknown buffer
+05-07 18:14:49.405 27727  5666 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+05-07 18:14:49.406 27727  5656 I MediaCodec: MediaStub sendHdrInfo/sendFrameRateFloatCal/updateFrcAieAisState
+05-07 18:14:49.406 27727  5656 D MediaImpl: FRC switch off: valueSupport : true, valueOn : false
+05-07 18:14:49.406 27727  5656 D MediaImpl: AIE switch off: valueSupport : true, valueOn : false
+05-07 18:14:49.406 27727  5656 D MediaImpl: AIS switch off: valueSupport : true, valueOn : false
+05-07 18:14:49.406 27727  5656 I MediaCodec: MediaStub sendVideoPlayData
+05-07 18:14:49.406 27727  5656 D MediaImpl: sendVideoPlayData, start
+05-07 18:14:49.406 27727  5656 D MediaImpl: MediaImpl::sendVideoPlayData::mediacodec_mime : video/hevc
+05-07 18:14:49.406 27727  5656 D MediaImpl: MediaImpl::sendVideoPlayData::mediacodec_packgeName : com.YostarJP.BlueArchive
+05-07 18:14:49.406 27727  5656 D MediaImpl: MediaImpl::sendVideoPlayData::mine : video/hevc
+05-07 18:14:49.406 27727  5656 D MediaImpl: MediaImpl::sendVideoPlayData::packgeName : com.YostarJP.BlueArchive
+05-07 18:14:49.406 27727  5656 E send_data_to_xlog: send_video_play_to_xlog, start
+05-07 18:14:49.406 27727  5656 D send_data_to_xlog: send_video_play_to_xlog::mine : video/hevc
+05-07 18:14:49.406 27727  5656 D send_data_to_xlog: send_video_play_to_xlog::packgeName : com.YostarJP.BlueArchive
+05-07 18:14:49.406 27727  5656 V xlog_client:  xlog_send  msg_id: 13
+05-07 18:14:49.406 27727  5656 V xlog_client:  xlog_send 
+05-07 18:14:49.406 27727  5656 E xlog_client: xlog_open: Error in open xlog
+05-07 18:14:49.406 27727  5656 E xlog_client: xlog open fail
+05-07 18:14:49.408 27727  5656 D MediaCodec: flushMediametrics
+05-07 18:14:49.409 27727  5656 D VideoInfo: com.YostarJP.BlueArchive destroy c2.qti.hevc.decoder in MediaCodec, input num 10 output num 2 render num 0
+05-07 18:14:49.409 27727  5656 D VideoInfo: max input intervel 99ms max output intervel 97ms max render interval 0ms
+05-07 18:14:49.423 27727  5364 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:49.423 27727  5364 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:49.423 27727  5364 D MediaCodecList: codecHandlesFormat: no format, so no extra checks
+05-07 18:14:49.426 27727  5364 I MediaCodec: init video box disabled for codec not supported
+05-07 18:14:49.430 27727  5668 D CCodec  : allocate(c2.qti.hevc.decoder)
+05-07 18:14:49.434 27727  5668 I CCodec  : setting up 'default' as default (vendor) store
+05-07 18:14:49.437 27727  5668 I CCodec  : Created component [c2.qti.hevc.decoder]
+05-07 18:14:49.438 27727  5668 D CCodecConfig: read media type: video/hevc
+05-07 18:14:49.439 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_luma
+05-07 18:14:49.439 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_dpb_chroma
+05-07 18:14:49.440 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_luma
+05-07 18:14:49.440 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_top_field.misr_opb_chroma
+05-07 18:14:49.440 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_luma
+05-07 18:14:49.440 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_dpb_chroma
+05-07 18:14:49.440 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_luma
+05-07 18:14:49.440 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: vendor.qti-ext-dec-info-misr.misr_info_bottom_field.misr_opb_chroma
+05-07 18:14:49.442 27727  5668 D ReflectedParamUpdater: ignored struct field vendor.qti-ext-dec-panscan.window
+05-07 18:14:49.447 27727  5668 D ReflectedParamUpdater: extent() != 1 for single value type: output.buffers.pool-ids.values
+05-07 18:14:49.449 27727  5668 D CCodecConfig: ignoring local param raw.size (0xd2001800) as it is already supported
+05-07 18:14:49.449 27727  5668 D CCodecConfig: ignoring local param default.color (0x5200180b) as it is already supported
+05-07 18:14:49.449 27727  5668 D CCodecConfig: ignoring local param raw.hdr-static-info (0xd200180a) as it is already supported
+05-07 18:14:49.450 27727  5668 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:49.450 27727  5668 D CCodecConfig: c2 config diff is Dict {
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::i32 algo.priority.value = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::float algo.rate.value = 30
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 algo.secure-mode.value = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::float coded.frame-rate.value = 30
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 coded.pl.level = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 coded.pl.profile = 24576
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 coded.vui.color.matrix = 255
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 coded.vui.color.primaries = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 coded.vui.color.range = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 coded.vui.color.transfer = 255
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 default.color.matrix = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 default.color.primaries = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 default.color.range = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 default.color.transfer = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 input.buffers.max-size.value = 8847360
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 input.delay.value = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   string input.media-type.value = "video/hevc"
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 output.delay.value = 9
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   Buffer output.hdr10-plus-info.value = {
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   }
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   string output.media-type.value = "video/raw"
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 raw.color.matrix = 255
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 raw.color.primaries = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 raw.color.range = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::u32 raw.color.transfer = 255
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.x = 0
+05-07 18:14:49.450 27727  5668 D CCodecConfig:   c2::float raw.hdr-static-info.mastering.blue.y = 
+05-07 18:14:49.451 27727  5668 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.453 27727  5364 D VideoInfo: com.YostarJP.BlueArchive create c2.qti.hevc.decoder in MediaCodec
+05-07 18:14:49.453 27727  5364 I MediaCodec: fps video to display enabled
+05-07 18:14:49.453 27727  5364 I MiMediaCodecStub: MiMediaCodecStub::MiMediaCodecStub
+05-07 18:14:49.455 27727  5364 I MediaCodec: The Fps from player is 30.000000  frameRateFloat 30.000000 frameRateInt 30
+05-07 18:14:49.455 27727  5364 I MediaCodec: MediaStub sendFrameRate
+05-07 18:14:49.455 27727  5364 D MediaImpl: MediaImpl::sendFrameRate: 30
+05-07 18:14:49.455 27727  5364 I MediaCodec: MediaStub sendMine
+05-07 18:14:49.455 27727  5364 D MediaImpl: MediaImpl::sendMine: video/hevc
+05-07 18:14:49.455 27727  5364 D MediaStub: MediaStub::sendMine video/hevc
+05-07 18:14:49.455 27727  5364 D MediaCodec: currery video type video/hevc
+05-07 18:14:49.455 27727  5364 I MediaCodec: MediaStub sendDolbyVision
+05-07 18:14:49.455 27727  5364 I MediaCodec: MediaStub sendPackageName
+05-07 18:14:49.455 27727  5364 D MediaImpl: MediaImpl::sendPackageName: com.YostarJP.BlueArchive
+05-07 18:14:49.455 27727  5364 D MediaStub: MediaStub::sendPackageName com.YostarJP.BlueArchive
+05-07 18:14:49.455 27727  5364 I MediaCodec: MediaStub sendWidth/sendHeight
+05-07 18:14:49.455 27727  5364 I MediaCodec: configure : init video box disabled
+05-07 18:14:49.456 27727  5667 D MediaCodec: flushMediametrics
+05-07 18:14:49.456 27727  5668 D CCodec  : [c2.qti.hevc.decoder] buffers are bound to CCodec for this session
+05-07 18:14:49.456 27727  5668 D CCodec  : Client requested ByteBuffer mode decoder w/o color format set: using default semi-planar color format
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for durationUs
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for frame-count
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for track-id
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for language
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for display-width
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for display-height
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for android._is-hdr
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for color-standard
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for file-format
+05-07 18:14:49.456 27727  5668 D CCodecConfig: no c2 equivalents for flags
+05-07 18:14:49.457 27727  5668 D CCodecConfig: c2 config diff is   c2::u32 coded.pl.level = 24581
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 default.color.matrix = 1
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 default.color.primaries = 1
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 default.color.range = 2
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 default.color.transfer = 3
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 raw.pixel-format.value = 35
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 raw.size.height = 720
+05-07 18:14:49.457 27727  5668 D CCodecConfig:   c2::u32 raw.size.width = 1560
+05-07 18:14:49.458 27727  5668 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.458 27727  5668 W Codec2Client: query -- param skipped: index = 1107298332.
+05-07 18:14:49.458 27727  5668 D CCodec  : client requested max input size 842400, which is smaller than what component recommended (8847360); overriding with component recommendation.
+05-07 18:14:49.458 27727  5668 W CCodec  : This behavior is subject to change. It is recommended that app developers double check whether the requested max input size is in reasonable range.
+05-07 18:14:49.458 27727  5668 D CCodec  : encoding statistics level = 0
+05-07 18:14:49.459 27727  5668 D CCodec  : setup formats input: AMessage(what = 0x00000000) = {
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t height = 720
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t max-input-size = 8847360
+05-07 18:14:49.459 27727  5668 D CCodec  :   string mime = "video/hevc"
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t priority = 0
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t profile = 1
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t width = 1560
+05-07 18:14:49.459 27727  5668 D CCodec  :   Rect crop(0, 0, 1559, 719)
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t level = 1024
+05-07 18:14:49.459 27727  5668 D CCodec  : }
+05-07 18:14:49.459 27727  5668 D CCodec  : setup formats output: AMessage(what = 0x00000000) = {
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t android._color-format = 2135033992
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t android._video-scaling = 1
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t android._dataspace = 12648448
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t color-standard = 130816
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t color-range = 0
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t color-transfer = 65791
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t sar-height = 1
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t rotation-degrees = 0
+05-07 18:14:49.459 27727  5668 D CCodec  :   Buffer hdr-static-info = {
+05-07 18:14:49.459 27727  5668 D CCodec  :     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:49.459 27727  5668 D CCodec  :     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:49.459 27727  5668 D CCodec  :   }
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t sar-width = 1
+05-07 18:14:49.459 27727  5668 D CCodec  :   Rect crop(0, 0, 1559, 719)
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t width = 1560
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t feature-secure-playback = 0
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t frame-rate = 30
+05-07 18:14:49.459 27727  5668 D CCodec  :   Buffer hdr10-plus-info = {
+05-07 18:14:49.459 27727  5668 D CCodec  :   }
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t height = 720
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t max-height = 4320
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t max-width = 8192
+05-07 18:14:49.459 27727  5668 D CCodec  :   string mime = "video/raw"
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t priority = 0
+05-07 18:14:49.459 27727  5668 D CCodec  :   int32_t color-format = 21
+05-07 18:14:49.459 27727  5668 D CCodec  : }
+05-07 18:14:49.459 27727  5668 I CCodecConfig: query failed after returning 18 values (BAD_INDEX)
+05-07 18:14:49.466 27727  5668 W Codec2Client: query -- param skipped: index = 1342179345.
+05-07 18:14:49.466 27727  5668 W Codec2Client: query -- param skipped: index = 2415921170.
+05-07 18:14:49.466 27727  5668 W Codec2Client: query -- param skipped: index = 1610614798.
+05-07 18:14:49.466 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] Query input allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:49.467 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] Created input block pool with allocatorID 16 => poolID 20 - OK (0)
+05-07 18:14:49.467 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] Query output allocators returned 0 params => BAD_INDEX (6)
+05-07 18:14:49.467 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] Configured output block pool ids 1 => OK
+05-07 18:14:49.467 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] start: updating output delay 9
+05-07 18:14:49.482 27727  5667 I MiMediaCodec: send fps to display with mFpsFromPlayer:30.000000 state:1 id:3
+05-07 18:14:49.484 27727  5668 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 10
+05-07 18:14:49.484 27727  5668 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.485 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] onWorkDone: updating output delay 10
+05-07 18:14:49.485 27727  5668 D Codec2-OutputBufferQueue: set max dequeue count 17 from update
+05-07 18:14:49.487 27727  5473 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] Ignoring stale input buffer done callback: last flush index = 0, frameIndex = 0
+05-07 18:14:49.495 27727  5668 D CCodecConfig: c2 config diff is   c2::u32 output.delay.value = 13
+05-07 18:14:49.495 27727  5668 W ColorUtils: expected specified color aspects (0:0:255:255)
+05-07 18:14:49.496 27727  5668 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] onWorkDone: updating output delay 13
+05-07 18:14:49.496 27727  5668 D Codec2-OutputBufferQueue: set max dequeue count 20 from update
+05-07 18:14:49.508 27727  5668 D CCodecConfig: c2 config diff is   c2::u32 raw.color.matrix = 1
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.color.primaries = 1
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.color.range = 2
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.color.transfer = 3
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.crop.height = 720
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.crop.left = 0
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.crop.top = 0
+05-07 18:14:49.508 27727  5668 D CCodecConfig:   c2::u32 raw.crop.width = 1560
+05-07 18:14:49.509 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:2D-BB-Output] popFromStashAndRegister: at 0us, output format changed to AMessage(what = 0x00000000) = {
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t android._color-format = 2135033992
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t android._video-scaling = 1
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t android._dataspace = 260
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t color-standard = 1
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t color-range = 2
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t color-transfer = 3
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t sar-height = 1
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t rotation-degrees = 0
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   Buffer hdr-static-info = {
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:     00000000:  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:     00000010:  00 00 00 00 00 00 00 00  00                       .........
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   }
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t sar-width = 1
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   Rect crop(0, 0, 1559, 719)
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t width = 1560
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t feature-secure-playback = 0
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t frame-rate = 30
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   Buffer hdr10-plus-info = {
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   }
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t height = 720
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t max-height = 4320
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t max-width = 8192
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   string mime = "video/raw"
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t priority = 0
+05-07 18:14:49.509 27727  5668 D CCodecBuffers:   int32_t color-format = 21
+05-07 18:14:49.509 27727  5668 D CCodecBuffers: }
+05-07 18:14:49.516 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:2D-BB-Output] updating image-data
+05-07 18:14:49.517 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:2D-BB-Output] updating stride = 1560, width: 1560, height: 720
+05-07 18:14:49.517 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:2D-BB-Output] updating vstride = 720
+05-07 18:14:49.632 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:Output[N]] updating image-data
+05-07 18:14:49.633 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:Output[N]] updating stride = 1560, width: 1560, height: 720
+05-07 18:14:49.633 27727  5668 D CCodecBuffers: [c2.qti.hevc.decoder#92:Output[N]] updating vstride = 720
+05-07 18:14:49.640 27727  5473 D CCodecBuffers: [c2.qti.hevc.decoder#92:1D-Input.Impl[N]] codec released a buffer owned by client (index 2)
+05-07 18:14:49.700 27727  5473 D CCodecBuffers: [c2.qti.hevc.decoder#92:1D-Input.Impl[N]] codec released a buffer owned by client (index 1)
+05-07 18:14:49.864 27727  5391 D AudioTrack: [audioTrackData][mute] 5s(f:0 m:5001 s:0 k:852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:49.892 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:49.892 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:49.892 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:49.915 27727  5616 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: Flush completed
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: Params: {"event":"CUSTOM_APP_EVENTS","anon_id":"XZ7d5093a0-3a68-4334-acfc-3e4a85a72513","application_tracking_enabled":true,"advertiser_id_collection_enabled":true,"attribution":"28cd86fa-99db-4c8e-80e8-1d3bc78c8b6f","advertiser_id":"e28f07a3-ab15-4207-bc98-bc09fcdc2d13","advertiser_tracking_enabled":true,"installer_package":"com.android.vending","extinfo":"[\"a2\",\"com.YostarJP.BlueArchive\",278134,\"1.44.278134\",\"13\",\"2107113SR\",\"ja_JP\",\"JST\",\"NTT DOCOMO\",2186,1080,\"2.75\",8,224,17,\"Asia\\\/Tokyo\"]","application_package_name":"com.YostarJP.BlueArchive"}
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Result: Failed:
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Response: {Response:  responseCode: 400, graphObject: null, error: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}}
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Error {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Events JSON: [
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   {
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_eventName": "fb_mobile_activate_app",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_eventName_md5": "cb7f3b6cd294afce05ece615d43ea7b9",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_logTime": 1715073288,
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_ui": "MxUnityPlayerActivity",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_session_id": "dda1bdd9-6140-498b-9a26-97f9fa4f6506",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "fb_mobile_launch_source": "Unclassified",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "fb_mobile_pckg_fp": "5e9ab942958016d969509a6efb6cd94e",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "fb_mobile_app_cert_hash": "m3ijSbZYi6WTC2YZ9QSYQq9lCNA=\n",
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_inBackground": "1"
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   }
+05-07 18:14:49.916 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: ]
+05-07 18:14:49.918 27727  5603 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:50.041 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:50.042 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:50.043 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:50.129 27727  5472 D BufferPoolAccessor2.0: bufferpool2 0xb400007a15720628 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 5/16 (fetch/transfer)
+05-07 18:14:50.129 27727  5472 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+05-07 18:14:50.275 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:50.275 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:14:50.275 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:14:50.428 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:14:50.864 27727  5391 D AudioTrack: [audioTrackData][mute] 6s(f:0 m:6001 s:0 k:1852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:51.864 27727  5391 D AudioTrack: [audioTrackData][mute] 7s(f:0 m:7001 s:0 k:2852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:52.424 27727  5470 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] DEBUG: elapsed: n=17 [in=0 pipeline=0 out=13]
+05-07 18:14:52.424 27727  5470 D PipelineWatcher: DEBUG: elapsed 2 / 17
+05-07 18:14:52.864 27727  5391 D AudioTrack: [audioTrackData][mute] 8s(f:0 m:8001 s:0 k:3852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:53.130 27727  5472 D BufferPoolAccessor2.0: bufferpool2 0xb400007a15720028 : 0(0 size) total buffers - 0(0 size) used buffers - 1/5 (recycle/alloc) - 4/63 (fetch/transfer)
+05-07 18:14:53.130 27727  5472 D BufferPoolAccessor2.0: evictor expired: 1, evicted: 1
+05-07 18:14:53.600 27727  5573 D LogProducerCallback: LOG_PRODUCER_OK  n/a 22171 8202
+05-07 18:14:53.864 27727  5391 D AudioTrack: [audioTrackData][mute] 9s(f:0 m:9001 s:0 k:4852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:53.901 27727  5571 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, start http ping https://www.aliyun.com by WIFI with connectionType: WIFI, key: 74421391-3b89-4047-ab70-5e4ff9226382
+05-07 18:14:53.904 27727  5571 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, multiplePortsDetect not on
+05-07 18:14:53.908 27727  5571 I SLSAndroid: module: Diagnosis, start ping www.aliyun.com, times: 10 by WIFI with netId: 4916848283661
+05-07 18:14:53.909 27727  5571 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, multiplePortsDetect not on
+05-07 18:14:53.910 27727  5571 I SLSAndroid: module: Diagnosis, start tcpping www.aliyun.com:80 by WIFI with netId: 4916848283661
+05-07 18:14:53.911 27727  5571 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, multiplePortsDetect not on
+05-07 18:14:53.917 27727  5571 I SLSAndroid: module: Diagnosis, start dns www.aliyun.com, server: 172.16.1.22,172.16.1.23, type: A by WIFI with netId: 4916848283661
+05-07 18:14:53.918 27727  5571 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, multiplePortsDetect not on
+05-07 18:14:53.920 27727  5571 I SLSAndroid: module: Diagnosis, start mtr www.aliyun.com by WIFI with netId: 4916848283661
+05-07 18:14:53.923 27727  5737 D TrafficStats: tagSocket(197) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:53.999 27727  5245 W SQLiteConnectionPool: A SQLiteConnection object for database '/storage/emulated/0/Android/data/com.YostarJP.BlueArchive/files/Database/airisdk.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.
+05-07 18:14:53.999 27727  5245 W System  : A resource failed to call SQLiteConnection.close. 
+05-07 18:14:53.999 27727  5245 W System  : A resource failed to call SQLiteConnectionPool.close. 
+05-07 18:14:53.999 27727  5245 W System  : A resource failed to call close. 
+05-07 18:14:54.630 27727  5667 D BufferPoolAccessor2.0: bufferpool2 0xb400007a18289428 : 5(44236800 size) total buffers - 4(35389440 size) used buffers - 0/5 (recycle/alloc) - 5/171 (fetch/transfer)
+05-07 18:14:54.864 27727  5391 D AudioTrack: [audioTrackData][mute] 10s(f:0 m:10001 s:0 k:5852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:55.130 27727  5472 D BufferPoolAccessor2.0: bufferpool2 0xb400007998e6e028 : 0(0 size) total buffers - 0(0 size) used buffers - 1/5 (recycle/alloc) - 4/13 (fetch/transfer)
+05-07 18:14:55.130 27727  5472 D BufferPoolAccessor2.0: evictor expired: 2, evicted: 2
+05-07 18:14:55.287 27727  5737 D TrafficStats: tagSocket(162) with statsTag=0xffffffff, statsUid=-1
+05-07 18:14:55.737 27727  5470 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] DEBUG: elapsed: n=17 [in=0 pipeline=0 out=13]
+05-07 18:14:55.737 27727  5470 D PipelineWatcher: DEBUG: elapsed 2 / 17
+05-07 18:14:55.841 27727  5737 I SLSAndroid: module: com.alibaba.netspeed.network.Diagnosis, startHttpPing code: 200
+05-07 18:14:55.864 27727  5391 D AudioTrack: [audioTrackData][mute] 11s(f:0 m:11001 s:0 k:6852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:56.864 27727  5391 D AudioTrack: [audioTrackData][mute] 12s(f:0 m:12001 s:0 k:7852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:57.864 27727  5391 D AudioTrack: [audioTrackData][mute] 13s(f:0 m:13001 s:0 k:8852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:58.526 27727  5573 D LogProducerCallback: LOG_PRODUCER_OK  n/a 6702 2693
+05-07 18:14:58.864 27727  5391 D AudioTrack: [audioTrackData][mute] 14s(f:0 m:14001 s:0 k:9852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:14:59.687 27727  5422 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+05-07 18:14:59.687 27727  5422 W Settings: Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+05-07 18:14:59.864 27727  5391 D AudioTrack: [audioTrackData][mute] 15s(f:0 m:15001 s:0 k:10852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:15:00.864 27727  5391 D AudioTrack: [audioTrackData][mute] 16s(f:0 m:16001 s:0 k:11852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:15:01.710 27727  5291 W Looper  : PerfMonitor longMsg : seq=312 plan=18:14:55.396 late=0ms wall=6314ms running=3860ms runnable=260ms io=1741ms h=android.os.Handler w=2269 procState=-1
+05-07 18:15:01.717 27727  5473 D BufferPoolAccessor2.0: bufferpool2 0xb400007a15720628 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 5/16 (fetch/transfer)
+05-07 18:15:01.717 27727  5667 D BufferPoolAccessor2.0: bufferpool2 0xb400007a18289428 : 4(35389440 size) total buffers - 4(35389440 size) used buffers - 0/5 (recycle/alloc) - 5/193 (fetch/transfer)
+05-07 18:15:01.717 27727  5473 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb400007a15720628 cached: 0/0M, 0/0% in use; allocs: 5, 0% recycled; transfers: 16, 69% unfetched
+05-07 18:15:01.718 27727  5473 D BufferPoolAccessor2.0: bufferpool2 0xb400007a15720028 : 0(0 size) total buffers - 0(0 size) used buffers - 1/5 (recycle/alloc) - 4/63 (fetch/transfer)
+05-07 18:15:01.718 27727  5473 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb400007a15720028 cached: 0/0M, 0/0% in use; allocs: 5, 20% recycled; transfers: 63, 94% unfetched
+05-07 18:15:01.718 27727  5473 D BufferPoolAccessor2.0: bufferpool2 0xb400007998e6e028 : 0(0 size) total buffers - 0(0 size) used buffers - 1/5 (recycle/alloc) - 4/13 (fetch/transfer)
+05-07 18:15:01.718 27727  5473 D BufferPoolAccessor2.0: Destruction - bufferpool2 0xb400007998e6e028 cached: 0/0M, 0/0% in use; allocs: 5, 20% recycled; transfers: 13, 69% unfetched
+05-07 18:15:01.723 27727  5667 I MiMediaCodec: send last fps
+05-07 18:15:01.723 27727  5667 I MiMediaCodec: send fps to display with mLastSendedFps:30.000000 state:1 id:3
+05-07 18:15:01.864 27727  5391 D AudioTrack: [audioTrackData][mute] 17s(f:0 m:17001 s:0 k:12852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:15:02.864 27727  5391 D AudioTrack: [audioTrackData][mute] 18s(f:0 m:18001 s:0 k:13852) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:15:03.083 27727  5291 W Looper  : PerfMonitor longMsg : seq=318 plan=18:15:02.035 late=0ms wall=1048ms running=880ms runnable=2ms io=43ms h=android.os.Handler w=2269 procState=-1
+05-07 18:15:03.085 27727  5667 I MiMediaCodec: send last fps
+05-07 18:15:03.085 27727  5667 I MiMediaCodec: send fps to display with mLastSendedFps:30.000000 state:1 id:3
+05-07 18:15:03.898 27727  5616 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:15:03.903 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: Flushing 1 events due to TIMER.
+05-07 18:15:04.081 27727  5616 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:15:04.081 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: Flush completed
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: Params: {"event":"CUSTOM_APP_EVENTS","anon_id":"XZ7d5093a0-3a68-4334-acfc-3e4a85a72513","application_tracking_enabled":true,"advertiser_id_collection_enabled":true,"attribution":"28cd86fa-99db-4c8e-80e8-1d3bc78c8b6f","advertiser_id":"e28f07a3-ab15-4207-bc98-bc09fcdc2d13","advertiser_tracking_enabled":true,"installer_package":"com.android.vending","extinfo":"[\"a2\",\"com.YostarJP.BlueArchive\",278134,\"1.44.278134\",\"13\",\"2107113SR\",\"ja_JP\",\"JST\",\"NTT DOCOMO\",2186,1080,\"2.75\",8,224,17,\"Asia\\\/Tokyo\"]","application_package_name":"com.YostarJP.BlueArchive"}
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Result: Failed:
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Response: {Response:  responseCode: 400, graphObject: null, error: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}}
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Error {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported post request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   Events JSON: [
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   {
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_eventName": "fb_mobile_activate_app",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_eventName_md5": "cb7f3b6cd294afce05ece615d43ea7b9",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_logTime": 1715073288,
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_ui": "MxUnityPlayerActivity",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_session_id": "dda1bdd9-6140-498b-9a26-97f9fa4f6506",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "fb_mobile_launch_source": "Unclassified",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "fb_mobile_pckg_fp": "5e9ab942958016d969509a6efb6cd94e",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "fb_mobile_app_cert_hash": "m3ijSbZYi6WTC2YZ9QSYQq9lCNA=\n",
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:     "_inBackground": "1"
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue:   }
+05-07 18:15:04.082 27727  5616 D FacebookSDK.com.facebook.appevents.AppEventQueue: ]
+05-07 18:15:04.082 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:15:04.233 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:15:04.234 27727  5606 D com.facebook.FacebookSdk: getGraphApiVersion: v12.0
+05-07 18:15:04.234 27727  5606 W GraphRequest: Starting with v13 of the SDK, a client token must be embedded in your client code before making Graph API calls. Visit https://developers.facebook.com/docs/android/getting-started#client-token to learn how to implement this change.
+05-07 18:15:04.379 27727  5606 E com.facebook.GraphResponse: {HttpStatus: 400, errorCode: 100, subErrorCode: 33, errorType: GraphMethodException, errorMessage: Unsupported get request. Object with ID 'FACEBOOK_APPID.todo' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api}
+05-07 18:15:05.028 27727  5470 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] DEBUG: elapsed: n=17 [in=0 pipeline=0 out=13]
+05-07 18:15:05.028 27727  5470 D PipelineWatcher: DEBUG: elapsed 2 / 17
+05-07 18:15:06.718 27727  5472 D BufferPoolAccessor2.0: evictor expired: 3, evicted: 0
+05-07 18:15:06.866 27727  5667 D BufferPoolAccessor2.0: bufferpool2 0xb400007a18289428 : 4(35389440 size) total buffers - 4(35389440 size) used buffers - 0/5 (recycle/alloc) - 11/255 (fetch/transfer)
+05-07 18:15:06.866 27727  5667 I MiMediaCodec: send last fps
+05-07 18:15:06.866 27727  5667 I MiMediaCodec: send fps to display with mLastSendedFps:30.000000 state:1 id:3
+05-07 18:15:06.890 27727 27727 W Thread-115: type=1400 audit(0.0:567604): avc: denied { read } for name="tcp" dev="proc" ino=4026532142 scontext=u:r:untrusted_app:s0:c218,c258,c512,c768 tcontext=u:object_r:proc_net_tcp_udp:s0 tclass=file permissive=0 app=com.zzkko
+05-07 18:15:08.365 27727  5470 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] DEBUG: elapsed: n=17 [in=0 pipeline=0 out=13]
+05-07 18:15:08.365 27727  5470 D PipelineWatcher: DEBUG: elapsed 2 / 17
+05-07 18:15:08.377 27727  5667 I MiMediaCodec: send last fps
+05-07 18:15:08.377 27727  5667 I MiMediaCodec: send fps to display with mLastSendedFps:30.000000 state:1 id:3
+05-07 18:15:08.616 27727  5391 D AudioTrack: [audioTrackData][fine] 5s(f:5003 m:18670 s:80 k:0) : pid 27727 uid 10730 sessionId 14937 sr 48000 ch 2 fmt 1
+05-07 18:15:09.345 27727  5667 I MiMediaCodec: send last fps
+05-07 18:15:09.345 27727  5667 I MiMediaCodec: send fps to display with mLastSendedFps:30.000000 state:1 id:3
+05-07 18:15:10.798 27727  5291 W Looper  : PerfMonitor longMsg : seq=411 plan=18:15:09.311 late=0ms wall=1487ms running=1298ms runnable=4ms io=97ms h=android.os.Handler w=2269 procState=-1
+05-07 18:15:10.802 27727  5667 I MiMediaCodec: send last fps
+05-07 18:15:10.802 27727  5667 I MiMediaCodec: send fps to display with mLastSendedFps:30.000000 state:1 id:3
+05-07 18:15:11.680 27727  5470 D CCodecBufferChannel: [c2.qti.hevc.decoder#92] DEBUG: elapsed: n=17 [in=0 pipeline=0 out=13]
+05-07 18:15:11.680 27727  5470 D PipelineWatcher: DEBUG: elapsed 3 / 17

@@ -71,6 +71,9 @@ public class MainViewModel
 
             // ファイル名の上書き
             await ChangeFileName();
+            
+            // MediaPatchフォルダの削除
+            Directory.Delete(Property.OutMediaPatchFolder, true);
         });
 
         Console.WriteLine("処理終了");
@@ -120,6 +123,7 @@ public class MainViewModel
     {
         try
         {
+            
             // MediaPatchフォルダ生成
             if (!Directory.Exists(Property.OutMediaPatchFolder))
             {
@@ -132,40 +136,18 @@ public class MainViewModel
             var output = _receiver.ToString();
             var mediaListUp =
                 Regex.Replace(output, "\\s+", "\n").Split("\n", StringSplitOptions.RemoveEmptyEntries);
-            var oldMediaList = Directory.GetFiles(Property.OutMediaPatchFolder).Select(Path.GetFileName);
-
-            //メディアの比較(同一Crcの場合Pullをスキップ)
-            var newFiles = new List<string>();
-            var okDelFiles = new List<string>();
-            await Task.Run(() =>
-            {
-                newFiles = mediaListUp.Except(oldMediaList).ToList();
-                okDelFiles = newFiles.Where(newFile =>
-                    oldMediaList.Any(oldFile =>
-                        newFile.Split("_")[0].Equals(oldFile.Split("_")[0]))).ToList();
-            });
-
+            
             // コピー実行( 3m 45s かかった)
-            for (var i = 0; i < newFiles.Count; i++)
+            for (var i = 0; i < mediaListUp.Length; i++)
             {
-                Console.WriteLine($"{i} / {newFiles.Count}");
+                Console.WriteLine($"{i} / {mediaListUp.Length}");
                 using var service = new SyncService(_device);
-                await using var stream = new FileStream(Path.Combine(Property.OutMediaPatchFolder, newFiles[i]),
+                await using var stream = new FileStream(Path.Combine(Property.OutMediaPatchFolder, mediaListUp[i]),
                     FileMode.Create, FileAccess.Write);
                 await service.PullAsync(
-                    $"{Property.AndroidMediaPatchFolder}/{newFiles[i]}",
+                    $"{Property.AndroidMediaPatchFolder}/{mediaListUp[i]}",
                     stream);
             }
-
-            // 不要Media(idは一緒だがCrcが違うもの)を削除
-            foreach (var delFile in okDelFiles)
-            {
-                File.Delete(Path.Combine(Property.OutMediaPatchFolder, delFile));
-            }
-
-            // 差分ファイル
-            _diffList.AddRange(okDelFiles);
-            _diffList.AddRange(newFiles);
         }
         catch (Exception e)
         {
@@ -267,6 +249,7 @@ public class MainViewModel
                     Array.Reverse(crcBytes);
                 }
                 var crc = BitConverter.ToUInt32(crcBytes, 0);
+                // Console.WriteLine(crc);
                 var source = Directory
                     .GetFiles(Property.OutMediaPatchFolder).First(f => 
                         Regex.IsMatch(f, "^.+_" + crc + "$"));

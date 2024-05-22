@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlueArchive-Assets-Converter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5938bf8e7bf5709be77aaaf3763421ace9295ecc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b85f04617baaf8385c0843ae8aa81c06f4fac4f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlueArchive-Assets-Converter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlueArchive-Assets-Converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

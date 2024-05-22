@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWjdojs3/25KnxIw2s3Xo4yIbIZKj/CrAXSKuhBi64qseqoytStrajzIdcsOdD3ZK/RCVTxJ2iv6Wg1m7+WIzA==",
+  "dgSpecHash": "gcACVD+7nySGqPJiQZDh6IKKpi2fN20TGIi64z6I8pbZIFIvOn48la2wMhELpHK1SGUA+o2UPFiSIx7P7fYpgA==",
   "success": true,
-  "projectFilePath": "E:\\Programming\\C#\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj",
+  "projectFilePath": "E:\\Programming\\C#\\bArchive_Asset_Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Locu\\.nuget\\packages\\advancedsharpadbclient\\3.3.12\\advancedsharpadbclient.3.3.12.nupkg.sha512",
     "C:\\Users\\Locu\\.nuget\\packages\\litedb\\5.0.19\\litedb.5.0.19.nupkg.sha512",

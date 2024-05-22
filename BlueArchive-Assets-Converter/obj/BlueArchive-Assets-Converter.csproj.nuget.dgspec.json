@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\C#\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj": {}
+    "E:\\Programming\\C#\\bArchive_Asset_Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\C#\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj": {
+    "E:\\Programming\\C#\\bArchive_Asset_Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\C#\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj",
+        "projectUniqueName": "E:\\Programming\\C#\\bArchive_Asset_Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj",
         "projectName": "BlueArchive-Assets-Converter",
-        "projectPath": "E:\\Programming\\C#\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj",
+        "projectPath": "E:\\Programming\\C#\\bArchive_Asset_Converter\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter.csproj",
         "packagesPath": "C:\\Users\\Locu\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\C#\\BlueArchive-Assets-Converter\\BlueArchive-Assets-Converter\\obj\\",
+        "outputPath": "E:\\Programming\\C#\\bArchive_Asset_Converter\\BlueArchive-Assets-Converter\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
