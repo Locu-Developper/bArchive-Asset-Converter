@@ -4,8 +4,7 @@ You will be able to listen to OSTs offline!
 
 ## Overview
 Convert the file name of the MediaPatch folder  
-<img src="https://drive.google.com/uc?export=view&id=1ce4ZSJJX4AZMot0yWzk2pDyVn2PaoAs7" width="600px">
-
+<img src="https://drive.google.com/uc?export=view&id=1Zf_mZeBnhNw6Fl3cBONumqqxHqU93-ec" width="600px">
 
 
 ## Supported versions
@@ -24,7 +23,7 @@ As of 2024-05-23 : 281133
     <img src="https://drive.google.com/uc?export=view&id=1hDP8627cnzuxUT2AmHZ92J6CUeNIeHjG" width="300px">
 
 2.  set up while following the instructions in the image below
-    ![image.png](https://drive.google.com/uc?export=view&id=1YyOaxyzWuihYpnub9UJ3fy3JS6VD9PPF)
+    ![image.png](https://drive.google.com/uc?export=view&id=1vixwHjShs-hd5e1_droxUw2r98q41t8k)
 
 3. press the "処理開始" button
    
