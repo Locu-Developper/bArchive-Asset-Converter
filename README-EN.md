@@ -19,7 +19,7 @@ As of 2024-05-23 : 281133
     If you are using a smartphone, please set up USB debugging on your smartphone.
     You probably don't have to root your phone, but an emulator is recommended.
 
-    【USB debugging setting for Android】
+    【USB debugging setting for Android】  
     <img src="https://drive.google.com/uc?export=view&id=1hDP8627cnzuxUT2AmHZ92J6CUeNIeHjG" width="300px">
 
 2.  set up while following the instructions in the image below
