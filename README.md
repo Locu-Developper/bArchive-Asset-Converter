@@ -2,6 +2,8 @@
 BlueArchiveのアセット(素材)をWindowsのエクスプローラー上で扱えるようにします。
 オフラインでもOSTが聴けるようになります！！
 
+[English ReadMe](https://github.com/Locu-Developper/bArchive-Asset-Converter/blob/main/README-EN.md)
+
 ## 概要
 MediaPatchフォルダのファイル名を変換します  
 <img src="https://drive.google.com/uc?export=view&id=1ce4ZSJJX4AZMot0yWzk2pDyVn2PaoAs7" width="600px">
