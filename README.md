@@ -4,7 +4,7 @@ BlueArchiveのアセット(素材)をWindowsのエクスプローラー上で扱
 
 ## 概要
 MediaPatchフォルダのファイル名を変換します  
-<img src="https://github.com/Locu-Developper/bArchive-Asset-Converter/assets/112639139/e522c5de-65b3-4cd0-9207-2c2ddfdaab18" width="600px">
+<img src="https://drive.google.com/uc?export=view&id=1ce4ZSJJX4AZMot0yWzk2pDyVn2PaoAs7" width="600px">
 
 
 
