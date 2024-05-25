@@ -21,17 +21,17 @@ MediaPatchフォルダのファイル名を変換します
     多分ルート化してなくても大丈夫ですが、エミュレータを推奨します。
 
     【AndroidのUSBデバッグ設定】
-    <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3494460/dc6b3f53-6b47-726f-ce6b-a102f92933c9.png" width="300px">
+    <img src="https://drive.google.com/uc?export=view&id=1hDP8627cnzuxUT2AmHZ92J6CUeNIeHjG" width="300px">
 
 2. 下の画像の説明を見ながら設定
-    ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3494460/ee165717-6219-c876-ca42-aac3f61600e4.png)
+    ![image.png](https://drive.google.com/uc?export=view&id=1YyOaxyzWuihYpnub9UJ3fy3JS6VD9PPF)
 
-2. 処理開始ボタンを押します
+3. 処理開始ボタンを押します
    
     そうすると、コンソールウィンドウにログが表示されます。
 
 ## フォルダ構成
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3494460/67d7b1bc-982d-9416-2052-de38948d92af.png)
+![image.png](https://drive.google.com/uc?export=view&id=1J_czGims0Vk1xzlbjB2LbfG9SLDppSfj)    
 ↑の画像のように生成されるので、空フォルダをお勧めします。
 
 ## ダウンロード
