@@ -7,8 +7,8 @@ Convert the file name of the MediaPatch folder
 <img src="https://drive.google.com/uc?export=view&id=1Zf_mZeBnhNw6Fl3cBONumqqxHqU93-ec" width="600px">
 
 
-## Supported versions
-As of 2024-05-23 : 281133
+## Japanese BlueArchive Supported versions
+As of 2024-06-26 : 287264
 
 ## Prerequisites
 - You must have the .Net 8 SDK installed.
