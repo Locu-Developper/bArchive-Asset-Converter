@@ -14,7 +14,7 @@ MediaPatchフォルダのファイル名を変換します
 2024-06-26現在 ： 287264
 
 ## 前提条件
-- .Net 8 SDKをインストールしておいてください
+- .Net 8 SDKを[インストール](https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer?cid=getdotnetcore)しておいてください 
 - ゲームを最新版までアップデートしておく
 
 ## 使い方
