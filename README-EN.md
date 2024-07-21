@@ -11,7 +11,7 @@ Convert the file name of the MediaPatch folder
 As of 2024-06-26 : 287264
 
 ## Prerequisites
-- You must have the .Net 8 SDK installed.
+- You must have the .Net 8 SDK [installed](https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer?cid=getdotnetcore).
 - Update your game to the latest version.
 
 ## How to use
