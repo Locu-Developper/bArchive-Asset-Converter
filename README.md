@@ -11,7 +11,7 @@ MediaPatchフォルダのファイル名を変換します
 
 
 ## 対応バージョン
-2024-06-26現在 ： 287264
+2024-07-23現在 ： 291161
 
 ## 前提条件
 - .Net 8 SDKを[インストール](https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer?cid=getdotnetcore)しておいてください 
