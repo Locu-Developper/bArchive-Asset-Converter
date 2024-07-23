@@ -8,7 +8,7 @@ Convert the file name of the MediaPatch folder
 
 
 ## Japanese BlueArchive Supported versions
-As of 2024-06-26 : 287264
+As of 2024-06-26 : 291161
 
 ## Prerequisites
 - You must have the .Net 8 SDK [installed](https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer?cid=getdotnetcore).
